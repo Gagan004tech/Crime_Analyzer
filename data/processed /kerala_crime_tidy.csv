@@ -1,0 +1,1681 @@
+year,district,crime_head,cases,category,imputed,region,population_2011,rate_per_lakh
+2016,Alappuzha,Abkari Act,437,Special & Local Laws,False,South,2127789,20.53775068862561
+2017,Alappuzha,Abkari Act,459,Special & Local Laws,False,South,2127789,21.571687794231476
+2018,Alappuzha,Abkari Act,434,Special & Local Laws,False,South,2127789,20.396759265133902
+2019,Alappuzha,Abkari Act,410,Special & Local Laws,False,South,2127789,19.26882787720023
+2020,Alappuzha,Abkari Act,449,Special & Local Laws,False,South,2127789,21.10171638259245
+2021,Alappuzha,Abkari Act,418,Special & Local Laws,False,South,2127789,19.644805006511454
+2022,Alappuzha,Abkari Act,397,Special & Local Laws,False,South,2127789,18.657865042069492
+2023,Alappuzha,Abkari Act,347,Special & Local Laws,False,South,2127789,16.30800798387434
+2016,Alappuzha,Attempt to Murder,22,Violent Crime,False,South,2127789,1.033937105605866
+2017,Alappuzha,Attempt to Murder,23,Violent Crime,False,South,2127789,1.080934246769769
+2018,Alappuzha,Attempt to Murder,20,Violent Crime,False,South,2127789,0.93994282327806
+2019,Alappuzha,Attempt to Murder,25,Violent Crime,False,South,2127789,1.174928529097575
+2020,Alappuzha,Attempt to Murder,25,Violent Crime,False,South,2127789,1.174928529097575
+2021,Alappuzha,Attempt to Murder,26,Violent Crime,False,South,2127789,1.221925670261478
+2022,Alappuzha,Attempt to Murder,29,Violent Crime,False,South,2127789,1.362917093753187
+2023,Alappuzha,Attempt to Murder,26,Violent Crime,False,South,2127789,1.221925670261478
+2016,Alappuzha,Burglary,205,Property Crime,False,South,2127789,9.634413938600115
+2017,Alappuzha,Burglary,189,Property Crime,False,South,2127789,8.882459679977668
+2018,Alappuzha,Burglary,218,Property Crime,False,South,2127789,10.245376773730854
+2019,Alappuzha,Burglary,158,Property Crime,False,South,2127789,7.425548303896673
+2020,Alappuzha,Burglary,150,Property Crime,False,South,2127789,7.0495711745854495
+2021,Alappuzha,Burglary,173,Property Crime,False,South,2127789,8.130505421355219
+2022,Alappuzha,Burglary,164,Property Crime,False,South,2127789,7.707531150880092
+2023,Alappuzha,Burglary,174,Property Crime,False,South,2127789,8.177502562519122
+2016,Alappuzha,Cheating,175,Economic & Cyber Crime,False,South,2127789,8.224499703683025
+2017,Alappuzha,Cheating,192,Economic & Cyber Crime,False,South,2127789,9.023451103469377
+2018,Alappuzha,Cheating,191,Economic & Cyber Crime,False,South,2127789,8.976453962305472
+2019,Alappuzha,Cheating,185,Economic & Cyber Crime,False,South,2127789,8.694471115322056
+2020,Alappuzha,Cheating,172,Economic & Cyber Crime,False,South,2127789,8.083508280191316
+2021,Alappuzha,Cheating,255,Economic & Cyber Crime,False,South,2127789,11.984270996795265
+2022,Alappuzha,Cheating,238,Economic & Cyber Crime,False,South,2127789,11.185319597008915
+2023,Alappuzha,Cheating,207,Economic & Cyber Crime,False,South,2127789,9.728408220927921
+2016,Alappuzha,Cruelty by Husband/Relatives,140,Crimes Against Women,False,South,2127789,6.579599762946421
+2017,Alappuzha,Cruelty by Husband/Relatives,133,Crimes Against Women,False,South,2127789,6.250619774799098
+2018,Alappuzha,Cruelty by Husband/Relatives,122,Crimes Against Women,False,South,2127789,5.7336512219961655
+2019,Alappuzha,Cruelty by Husband/Relatives,125,Crimes Against Women,False,South,2127789,5.874642645487875
+2020,Alappuzha,Cruelty by Husband/Relatives,133,Crimes Against Women,False,South,2127789,6.250619774799098
+2021,Alappuzha,Cruelty by Husband/Relatives,139,Crimes Against Women,False,South,2127789,6.532602621782517
+2022,Alappuzha,Cruelty by Husband/Relatives,136,Crimes Against Women,False,South,2127789,6.391611198290808
+2023,Alappuzha,Cruelty by Husband/Relatives,135,Crimes Against Women,False,South,2127789,6.344614057126905
+2016,Alappuzha,Cyber Crime,10,Economic & Cyber Crime,False,South,2127789,0.46997141163903
+2017,Alappuzha,Cyber Crime,12,Economic & Cyber Crime,False,South,2127789,0.563965693966836
+2018,Alappuzha,Cyber Crime,17,Economic & Cyber Crime,False,South,2127789,0.798951399786351
+2019,Alappuzha,Cyber Crime,23,Economic & Cyber Crime,False,South,2127789,1.080934246769769
+2020,Alappuzha,Cyber Crime,34,Economic & Cyber Crime,False,South,2127789,1.597902799572702
+2021,Alappuzha,Cyber Crime,29,Economic & Cyber Crime,False,South,2127789,1.362917093753187
+2022,Alappuzha,Cyber Crime,43,Economic & Cyber Crime,False,South,2127789,2.020877070047829
+2023,Alappuzha,Cyber Crime,59,Economic & Cyber Crime,False,South,2127789,2.772831328670277
+2016,Alappuzha,Hurt,1098,Violent Crime,False,South,2127789,51.6028609979655
+2017,Alappuzha,Hurt,1006,Violent Crime,False,South,2127789,47.27912401088642
+2018,Alappuzha,Hurt,1115,Violent Crime,False,South,2127789,52.40181239775185
+2019,Alappuzha,Hurt,1178,Violent Crime,False,South,2127789,55.36263229107773
+2020,Alappuzha,Hurt,877,Violent Crime,False,South,2127789,41.216492800742934
+2021,Alappuzha,Hurt,999,Violent Crime,False,South,2127789,46.950144022739096
+2022,Alappuzha,Hurt,1013,Violent Crime,False,South,2127789,47.60810399903374
+2023,Alappuzha,Hurt,1036,Violent Crime,False,South,2127789,48.68903824580351
+2016,Alappuzha,Kidnapping & Abduction,22,Violent Crime,False,South,2127789,1.033937105605866
+2017,Alappuzha,Kidnapping & Abduction,20,Violent Crime,False,South,2127789,0.93994282327806
+2018,Alappuzha,Kidnapping & Abduction,24,Violent Crime,False,South,2127789,1.127931387933672
+2019,Alappuzha,Kidnapping & Abduction,24,Violent Crime,False,South,2127789,1.127931387933672
+2020,Alappuzha,Kidnapping & Abduction,20,Violent Crime,False,South,2127789,0.93994282327806
+2021,Alappuzha,Kidnapping & Abduction,28,Violent Crime,False,South,2127789,1.315919952589284
+2022,Alappuzha,Kidnapping & Abduction,27,Violent Crime,False,South,2127789,1.268922811425381
+2023,Alappuzha,Kidnapping & Abduction,30,Violent Crime,False,South,2127789,1.40991423491709
+2016,Alappuzha,Molestation,113,Crimes Against Women,False,South,2127789,5.310676951521039
+2017,Alappuzha,Molestation,117,Crimes Against Women,False,South,2127789,5.498665516176652
+2018,Alappuzha,Molestation,125,Crimes Against Women,False,South,2127789,5.874642645487875
+2019,Alappuzha,Molestation,112,Crimes Against Women,False,South,2127789,5.263679810357136
+2020,Alappuzha,Molestation,103,Crimes Against Women,False,South,2127789,4.840705539882009
+2021,Alappuzha,Molestation,146,Crimes Against Women,False,South,2127789,6.861582609929838
+2022,Alappuzha,Molestation,124,Crimes Against Women,False,South,2127789,5.827645504323971
+2023,Alappuzha,Molestation,130,Crimes Against Women,False,South,2127789,6.10962835130739
+2016,Alappuzha,Murder,16,Violent Crime,False,South,2127789,0.7519542586224479
+2017,Alappuzha,Murder,19,Violent Crime,False,South,2127789,0.892945682114157
+2018,Alappuzha,Murder,16,Violent Crime,False,South,2127789,0.7519542586224479
+2019,Alappuzha,Murder,17,Violent Crime,False,South,2127789,0.798951399786351
+2020,Alappuzha,Murder,16,Violent Crime,False,South,2127789,0.7519542586224479
+2021,Alappuzha,Murder,19,Violent Crime,False,South,2127789,0.892945682114157
+2022,Alappuzha,Murder,18,Violent Crime,False,South,2127789,0.8459485409502541
+2023,Alappuzha,Murder,17,Violent Crime,False,South,2127789,0.798951399786351
+2016,Alappuzha,NDPS Act,265,Special & Local Laws,False,South,2127789,12.454242408434295
+2017,Alappuzha,NDPS Act,346,Special & Local Laws,False,South,2127789,16.261010842710437
+2018,Alappuzha,NDPS Act,411,Special & Local Laws,False,South,2127789,19.315825018364134
+2019,Alappuzha,NDPS Act,442,Special & Local Laws,False,South,2127789,20.772736394445126
+2020,Alappuzha,NDPS Act,506,Special & Local Laws,False,South,2127789,23.78055342893492
+2021,Alappuzha,NDPS Act,739,Special & Local Laws,False,South,2127789,34.73088732012432
+2022,Alappuzha,NDPS Act,679,Special & Local Laws,False,South,2127789,31.911058850290136
+2023,Alappuzha,NDPS Act,834,Special & Local Laws,False,South,2127789,39.1956157306951
+2016,Alappuzha,Rape,74,Crimes Against Women,False,South,2127789,3.477788446128822
+2017,Alappuzha,Rape,80,Crimes Against Women,False,South,2127789,3.75977129311224
+2018,Alappuzha,Rape,80,Crimes Against Women,False,South,2127789,3.75977129311224
+2019,Alappuzha,Rape,86,Crimes Against Women,False,South,2127789,4.041754140095658
+2020,Alappuzha,Rape,66,Crimes Against Women,False,South,2127789,3.101811316817598
+2021,Alappuzha,Rape,82,Crimes Against Women,False,South,2127789,3.853765575440046
+2022,Alappuzha,Rape,87,Crimes Against Women,False,South,2127789,4.088751281259561
+2023,Alappuzha,Rape,98,Crimes Against Women,False,South,2127789,4.605719834062494
+2016,Alappuzha,Riots,89,Violent Crime,False,South,2127789,4.182745563587367
+2017,Alappuzha,Riots,94,Violent Crime,False,South,2127789,4.417731269406882
+2018,Alappuzha,Riots,74,Violent Crime,False,South,2127789,3.477788446128822
+2019,Alappuzha,Riots,74,Violent Crime,False,South,2127789,3.477788446128822
+2020,Alappuzha,Riots,39,Violent Crime,False,South,2127789,1.832888505392217
+2021,Alappuzha,Riots,63,Violent Crime,False,South,2127789,2.9608198933258887
+2022,Alappuzha,Riots,61,Violent Crime,False,South,2127789,2.8668256109980828
+2023,Alappuzha,Riots,56,Violent Crime,False,South,2127789,2.631839905178568
+2016,Alappuzha,Robbery,35,Property Crime,False,South,2127789,1.6448999407366052
+2017,Alappuzha,Robbery,33,Property Crime,False,South,2127789,1.550905658408799
+2018,Alappuzha,Robbery,35,Property Crime,False,South,2127789,1.6448999407366052
+2019,Alappuzha,Robbery,33,Property Crime,False,South,2127789,1.550905658408799
+2020,Alappuzha,Robbery,21,Property Crime,False,South,2127789,0.986939964441963
+2021,Alappuzha,Robbery,35,Property Crime,False,South,2127789,1.6448999407366052
+2022,Alappuzha,Robbery,36,Property Crime,False,South,2127789,1.6918970819005081
+2023,Alappuzha,Robbery,33,Property Crime,False,South,2127789,1.550905658408799
+2016,Alappuzha,Theft,539,Property Crime,False,South,2127789,25.331459087343717
+2017,Alappuzha,Theft,727,Property Crime,False,South,2127789,34.16692162615748
+2018,Alappuzha,Theft,606,Property Crime,False,South,2127789,28.480267545325216
+2019,Alappuzha,Theft,541,Property Crime,False,South,2127789,25.425453369671523
+2020,Alappuzha,Theft,361,Property Crime,False,South,2127789,16.96596796016898
+2021,Alappuzha,Theft,482,Property Crime,False,South,2127789,22.652622041001244
+2022,Alappuzha,Theft,468,Property Crime,False,South,2127789,21.994662064706606
+2023,Alappuzha,Theft,476,Property Crime,False,South,2127789,22.37063919401783
+2016,Ernakulam,Abkari Act,1073,Special & Local Laws,False,Central,3282388,32.68961499981111
+2017,Ernakulam,Abkari Act,1100,Special & Local Laws,False,Central,3282388,33.51218685907943
+2018,Ernakulam,Abkari Act,952,Special & Local Laws,False,Central,3282388,29.00327444531238
+2019,Ernakulam,Abkari Act,1027,Special & Local Laws,False,Central,3282388,31.28819627661325
+2020,Ernakulam,Abkari Act,1084,Special & Local Laws,False,Central,3282388,33.02473686840191
+2021,Ernakulam,Abkari Act,919,Special & Local Laws,False,Central,3282388,27.997908839539992
+2022,Ernakulam,Abkari Act,839,Special & Local Laws,False,Central,3282388,25.560658886152403
+2023,Ernakulam,Abkari Act,878,Special & Local Laws,False,Central,3282388,26.748818238428854
+2016,Ernakulam,Attempt to Murder,73,Violent Crime,False,Central,3282388,2.2239905824661803
+2017,Ernakulam,Attempt to Murder,91,Violent Crime,False,Central,3282388,2.772371821978389
+2018,Ernakulam,Attempt to Murder,79,Violent Crime,False,Central,3282388,2.4067843289702497
+2019,Ernakulam,Attempt to Murder,91,Violent Crime,False,Central,3282388,2.772371821978389
+2020,Ernakulam,Attempt to Murder,82,Violent Crime,False,Central,3282388,2.4981812022222845
+2021,Ernakulam,Attempt to Murder,89,Violent Crime,False,Central,3282388,2.7114405731436992
+2022,Ernakulam,Attempt to Murder,83,Violent Crime,False,Central,3282388,2.5286468266396294
+2023,Ernakulam,Attempt to Murder,87,Violent Crime,False,Central,3282388,2.6505093243090094
+2016,Ernakulam,Burglary,410,Property Crime,False,Central,3282388,12.490906011111422
+2017,Ernakulam,Burglary,416,Property Crime,False,Central,3282388,12.673699757615491
+2018,Ernakulam,Burglary,388,Property Crime,False,Central,3282388,11.820662273929834
+2019,Ernakulam,Burglary,373,Property Crime,False,Central,3282388,11.36367790766966
+2020,Ernakulam,Burglary,247,Property Crime,False,Central,3282388,7.525009231084198
+2021,Ernakulam,Burglary,318,Property Crime,False,Central,3282388,9.688068564715689
+2022,Ernakulam,Burglary,326,Property Crime,False,Central,3282388,9.931793560054448
+2023,Ernakulam,Burglary,319,Property Crime,False,Central,3282388,9.718534189133033
+2016,Ernakulam,Cheating,370,Economic & Cyber Crime,False,Central,3282388,11.272281034417626
+2017,Ernakulam,Cheating,373,Economic & Cyber Crime,False,Central,3282388,11.36367790766966
+2018,Ernakulam,Cheating,410,Economic & Cyber Crime,False,Central,3282388,12.490906011111422
+2019,Ernakulam,Cheating,475,Economic & Cyber Crime,False,Central,3282388,14.471171598238843
+2020,Ernakulam,Cheating,475,Economic & Cyber Crime,False,Central,3282388,14.471171598238843
+2021,Ernakulam,Cheating,518,Economic & Cyber Crime,False,Central,3282388,15.781193448184675
+2022,Ernakulam,Cheating,525,Economic & Cyber Crime,False,Central,3282388,15.99445281910609
+2023,Ernakulam,Cheating,547,Economic & Cyber Crime,False,Central,3282388,16.664696556287677
+2016,Ernakulam,Cruelty by Husband/Relatives,324,Crimes Against Women,False,Central,3282388,9.870862311219758
+2017,Ernakulam,Cruelty by Husband/Relatives,353,Crimes Against Women,False,Central,3282388,10.754365419322761
+2018,Ernakulam,Cruelty by Husband/Relatives,308,Crimes Against Women,False,Central,3282388,9.38341232054224
+2019,Ernakulam,Cruelty by Husband/Relatives,337,Crimes Against Women,False,Central,3282388,10.266915428645241
+2020,Ernakulam,Cruelty by Husband/Relatives,341,Crimes Against Women,False,Central,3282388,10.38877792631462
+2021,Ernakulam,Cruelty by Husband/Relatives,333,Crimes Against Women,False,Central,3282388,10.145052930975861
+2022,Ernakulam,Cruelty by Husband/Relatives,293,Crimes Against Women,False,Central,3282388,8.926427954282065
+2023,Ernakulam,Cruelty by Husband/Relatives,314,Crimes Against Women,False,Central,3282388,9.56620606704631
+2016,Ernakulam,Cyber Crime,34,Economic & Cyber Crime,False,Central,3282388,1.0358312301897277
+2017,Ernakulam,Cyber Crime,42,Economic & Cyber Crime,False,Central,3282388,1.2795562255284871
+2018,Ernakulam,Cyber Crime,61,Economic & Cyber Crime,False,Central,3282388,1.8584030894580408
+2019,Ernakulam,Cyber Crime,70,Economic & Cyber Crime,False,Central,3282388,2.132593709214145
+2020,Ernakulam,Cyber Crime,104,Economic & Cyber Crime,False,Central,3282388,3.168424939403873
+2021,Ernakulam,Cyber Crime,103,Economic & Cyber Crime,False,Central,3282388,3.1379593149865284
+2022,Ernakulam,Cyber Crime,139,Economic & Cyber Crime,False,Central,3282388,4.234721794010945
+2023,Ernakulam,Cyber Crime,170,Economic & Cyber Crime,False,Central,3282388,5.179156150948639
+2016,Ernakulam,Hurt,3148,Violent Crime,False,Central,3282388,95.90578566580186
+2017,Ernakulam,Hurt,3313,Violent Crime,False,Central,3282388,100.93261369466377
+2018,Ernakulam,Hurt,2915,Violent Crime,False,Central,3282388,88.80729517656047
+2019,Ernakulam,Hurt,2812,Violent Crime,False,Central,3282388,85.66933586157396
+2020,Ernakulam,Hurt,2365,Violent Crime,False,Central,3282388,72.05120174702077
+2021,Ernakulam,Hurt,2640,Violent Crime,False,Central,3282388,80.42924846179062
+2022,Ernakulam,Hurt,2837,Violent Crime,False,Central,3282388,86.43097647200757
+2023,Ernakulam,Hurt,2790,Violent Crime,False,Central,3282388,84.99909212439236
+2016,Ernakulam,Kidnapping & Abduction,67,Violent Crime,False,Central,3282388,2.0411968359621104
+2017,Ernakulam,Kidnapping & Abduction,73,Violent Crime,False,Central,3282388,2.2239905824661803
+2018,Ernakulam,Kidnapping & Abduction,63,Violent Crime,False,Central,3282388,1.9193343382927308
+2019,Ernakulam,Kidnapping & Abduction,79,Violent Crime,False,Central,3282388,2.4067843289702497
+2020,Ernakulam,Kidnapping & Abduction,62,Violent Crime,False,Central,3282388,1.888868713875386
+2021,Ernakulam,Kidnapping & Abduction,78,Violent Crime,False,Central,3282388,2.376318704552905
+2022,Ernakulam,Kidnapping & Abduction,83,Violent Crime,False,Central,3282388,2.5286468266396294
+2023,Ernakulam,Kidnapping & Abduction,88,Violent Crime,False,Central,3282388,2.6809749487263543
+2016,Ernakulam,Molestation,321,Crimes Against Women,False,Central,3282388,9.779465437967724
+2017,Ernakulam,Molestation,322,Crimes Against Women,False,Central,3282388,9.809931062385068
+2018,Ernakulam,Molestation,326,Crimes Against Women,False,Central,3282388,9.931793560054448
+2019,Ernakulam,Molestation,402,Crimes Against Women,False,Central,3282388,12.247181015772663
+2020,Ernakulam,Molestation,270,Crimes Against Women,False,Central,3282388,8.225718592683132
+2021,Ernakulam,Molestation,372,Crimes Against Women,False,Central,3282388,11.333212283252315
+2022,Ernakulam,Molestation,411,Crimes Against Women,False,Central,3282388,12.521371635528766
+2023,Ernakulam,Molestation,381,Crimes Against Women,False,Central,3282388,11.607402903008419
+2016,Ernakulam,Murder,42,Violent Crime,False,Central,3282388,1.2795562255284871
+2017,Ernakulam,Murder,43,Violent Crime,False,Central,3282388,1.3100218499458323
+2018,Ernakulam,Murder,40,Violent Crime,False,Central,3282388,1.2186249766937973
+2019,Ernakulam,Murder,39,Violent Crime,False,Central,3282388,1.1881593522764524
+2020,Ernakulam,Murder,40,Violent Crime,False,Central,3282388,1.2186249766937973
+2021,Ernakulam,Murder,34,Violent Crime,False,Central,3282388,1.0358312301897277
+2022,Ernakulam,Murder,35,Violent Crime,False,Central,3282388,1.0662968546070726
+2023,Ernakulam,Murder,42,Violent Crime,False,Central,3282388,1.2795562255284871
+2016,Ernakulam,NDPS Act,455,Special & Local Laws,False,Central,3282388,13.861859109891945
+2017,Ernakulam,NDPS Act,526,Special & Local Laws,False,Central,3282388,16.024918443523433
+2018,Ernakulam,NDPS Act,656,Special & Local Laws,False,Central,3282388,19.985449617778276
+2019,Ernakulam,NDPS Act,683,Special & Local Laws,False,Central,3282388,20.80802147704659
+2020,Ernakulam,NDPS Act,752,Special & Local Laws,False,Central,3282388,22.91014956184339
+2021,Ernakulam,NDPS Act,995,Special & Local Laws,False,Central,3282388,30.313296295258212
+2022,Ernakulam,NDPS Act,1201,Special & Local Laws,False,Central,3282388,36.58921492523127
+2023,Ernakulam,NDPS Act,1301,Special & Local Laws,False,Central,3282388,39.63577736696576
+2016,Ernakulam,Rape,130,Crimes Against Women,False,Central,3282388,3.9605311742548412
+2017,Ernakulam,Rape,135,Crimes Against Women,False,Central,3282388,4.112859296341566
+2018,Ernakulam,Rape,151,Crimes Against Women,False,Central,3282388,4.600309287019084
+2019,Ernakulam,Rape,145,Crimes Against Women,False,Central,3282388,4.417515540515015
+2020,Ernakulam,Rape,122,Crimes Against Women,False,Central,3282388,3.7168061789160816
+2021,Ernakulam,Rape,150,Crimes Against Women,False,Central,3282388,4.56984366260174
+2022,Ernakulam,Rape,169,Crimes Against Women,False,Central,3282388,5.148690526531293
+2023,Ernakulam,Rape,147,Crimes Against Women,False,Central,3282388,4.478446789349705
+2016,Ernakulam,Riots,275,Violent Crime,False,Central,3282388,8.378046714769857
+2017,Ernakulam,Riots,260,Violent Crime,False,Central,3282388,7.9210623485096825
+2018,Ernakulam,Riots,243,Violent Crime,False,Central,3282388,7.403146733414818
+2019,Ernakulam,Riots,220,Violent Crime,False,Central,3282388,6.702437371815885
+2020,Ernakulam,Riots,110,Violent Crime,False,Central,3282388,3.3512186859079427
+2021,Ernakulam,Riots,213,Violent Crime,False,Central,3282388,6.489178000894471
+2022,Ernakulam,Riots,191,Violent Crime,False,Central,3282388,5.818934263712882
+2023,Ernakulam,Riots,183,Violent Crime,False,Central,3282388,5.575209268374123
+2016,Ernakulam,Robbery,87,Property Crime,False,Central,3282388,2.6505093243090094
+2017,Ernakulam,Robbery,83,Property Crime,False,Central,3282388,2.5286468266396294
+2018,Ernakulam,Robbery,85,Property Crime,False,Central,3282388,2.5895780754743196
+2019,Ernakulam,Robbery,71,Property Crime,False,Central,3282388,2.16305933363149
+2020,Ernakulam,Robbery,55,Property Crime,False,Central,3282388,1.6756093429539713
+2021,Ernakulam,Robbery,73,Property Crime,False,Central,3282388,2.2239905824661803
+2022,Ernakulam,Robbery,72,Property Crime,False,Central,3282388,2.1935249580488354
+2023,Ernakulam,Robbery,68,Property Crime,False,Central,3282388,2.0716624603794553
+2016,Ernakulam,Theft,929,Property Crime,False,Central,3282388,28.302565083713443
+2017,Ernakulam,Theft,798,Property Crime,False,Central,3282388,24.311568285041258
+2018,Ernakulam,Theft,787,Property Crime,False,Central,3282388,23.976446416450464
+2019,Ernakulam,Theft,789,Property Crime,False,Central,3282388,24.037377665285153
+2020,Ernakulam,Theft,512,Property Crime,False,Central,3282388,15.598399701680606
+2021,Ernakulam,Theft,762,Property Crime,False,Central,3282388,23.214805806016837
+2022,Ernakulam,Theft,742,Property Crime,True,Central,3282388,22.60549331766994
+2023,Ernakulam,Theft,723,Property Crime,False,Central,3282388,22.026646453740387
+2016,Idukki,Abkari Act,496,Special & Local Laws,False,Central,1108974,44.726026038482416
+2017,Idukki,Abkari Act,495,Special & Local Laws,False,Central,1108974,44.635852598888704
+2018,Idukki,Abkari Act,488,Special & Local Laws,False,Central,1108974,44.0046385217327
+2019,Idukki,Abkari Act,469,Special & Local Laws,False,Central,1108974,42.29134316945213
+2020,Idukki,Abkari Act,463,Special & Local Laws,False,Central,1108974,41.75030253188984
+2021,Idukki,Abkari Act,430,Special & Local Laws,False,Central,1108974,38.77457902529726
+2022,Idukki,Abkari Act,380,Special & Local Laws,False,Central,1108974,34.26590704561153
+2023,Idukki,Abkari Act,379,Special & Local Laws,False,Central,1108974,34.175733606017815
+2016,Idukki,Attempt to Murder,15,Violent Crime,False,Central,1108974,1.3526015939057183
+2017,Idukki,Attempt to Murder,15,Violent Crime,False,Central,1108974,1.3526015939057183
+2018,Idukki,Attempt to Murder,20,Violent Crime,False,Central,1108974,1.8034687918742909
+2019,Idukki,Attempt to Murder,14,Violent Crime,False,Central,1108974,1.2624281543120037
+2020,Idukki,Attempt to Murder,16,Violent Crime,False,Central,1108974,1.442775033499433
+2021,Idukki,Attempt to Murder,14,Violent Crime,False,Central,1108974,1.2624281543120037
+2022,Idukki,Attempt to Murder,19,Violent Crime,False,Central,1108974,1.7132953522805765
+2023,Idukki,Attempt to Murder,19,Violent Crime,False,Central,1108974,1.7132953522805765
+2016,Idukki,Burglary,179,Property Crime,False,Central,1108974,16.141045687274904
+2017,Idukki,Burglary,133,Property Crime,False,Central,1108974,11.993067465964035
+2018,Idukki,Burglary,138,Property Crime,False,Central,1108974,12.443934663932609
+2019,Idukki,Burglary,108,Property Crime,False,Central,1108974,9.738731476121172
+2020,Idukki,Burglary,110,Property Crime,False,Central,1108974,9.919078355308601
+2021,Idukki,Burglary,114,Property Crime,False,Central,1108974,10.279772113683459
+2022,Idukki,Burglary,120,Property Crime,False,Central,1108974,10.820812751245747
+2023,Idukki,Burglary,107,Property Crime,False,Central,1108974,9.648558036527456
+2016,Idukki,Cheating,148,Economic & Cyber Crime,False,Central,1108974,13.345669059869753
+2017,Idukki,Cheating,145,Economic & Cyber Crime,False,Central,1108974,13.07514874108861
+2018,Idukki,Cheating,168,Economic & Cyber Crime,False,Central,1108974,15.149137851744044
+2019,Idukki,Cheating,178,Economic & Cyber Crime,False,Central,1108974,16.05087224768119
+2020,Idukki,Cheating,144,Economic & Cyber Crime,False,Central,1108974,12.984975301494895
+2021,Idukki,Cheating,194,Economic & Cyber Crime,False,Central,1108974,17.49364728118062
+2022,Idukki,Cheating,196,Economic & Cyber Crime,False,Central,1108974,17.673994160368053
+2023,Idukki,Cheating,210,Economic & Cyber Crime,False,Central,1108974,18.93642231468006
+2016,Idukki,Cruelty by Husband/Relatives,123,Crimes Against Women,False,Central,1108974,11.09133307002689
+2017,Idukki,Cruelty by Husband/Relatives,128,Crimes Against Women,False,Central,1108974,11.542200267995463
+2018,Idukki,Cruelty by Husband/Relatives,124,Crimes Against Women,False,Central,1108974,11.181506509620604
+2019,Idukki,Cruelty by Husband/Relatives,103,Crimes Against Women,False,Central,1108974,9.287864278152599
+2020,Idukki,Cruelty by Husband/Relatives,100,Crimes Against Women,False,Central,1108974,9.017343959371454
+2021,Idukki,Cruelty by Husband/Relatives,116,Crimes Against Women,False,Central,1108974,10.460118992870887
+2022,Idukki,Cruelty by Husband/Relatives,124,Crimes Against Women,False,Central,1108974,11.181506509620604
+2023,Idukki,Cruelty by Husband/Relatives,103,Crimes Against Women,False,Central,1108974,9.287864278152599
+2016,Idukki,Cyber Crime,6,Economic & Cyber Crime,False,Central,1108974,0.5410406375622873
+2017,Idukki,Cyber Crime,10,Economic & Cyber Crime,False,Central,1108974,0.9017343959371454
+2018,Idukki,Cyber Crime,12,Economic & Cyber Crime,False,Central,1108974,1.0820812751245745
+2019,Idukki,Cyber Crime,15,Economic & Cyber Crime,False,Central,1108974,1.3526015939057183
+2020,Idukki,Cyber Crime,21,Economic & Cyber Crime,False,Central,1108974,1.8936422314680055
+2021,Idukki,Cyber Crime,25,Economic & Cyber Crime,False,Central,1108974,2.2543359898428634
+2022,Idukki,Cyber Crime,31,Economic & Cyber Crime,False,Central,1108974,2.795376627405151
+2023,Idukki,Cyber Crime,30,Economic & Cyber Crime,False,Central,1108974,2.7052031878114366
+2016,Idukki,Hurt,765,Violent Crime,False,Central,1108974,68.98268128919163
+2017,Idukki,Hurt,676,Violent Crime,False,Central,1108974,60.95724516535103
+2018,Idukki,Hurt,630,Violent Crime,False,Central,1108974,56.80926694404016
+2019,Idukki,Hurt,596,Violent Crime,False,Central,1108974,53.74336999785387
+2020,Idukki,Hurt,489,Violent Crime,False,Central,1108974,44.094811961326414
+2021,Idukki,Hurt,505,Violent Crime,False,Central,1108974,45.53758699482585
+2022,Idukki,Hurt,660,Violent Crime,False,Central,1108974,59.514470131851596
+2023,Idukki,Hurt,624,Violent Crime,False,Central,1108974,56.268226306477885
+2016,Idukki,Kidnapping & Abduction,20,Violent Crime,False,Central,1108974,1.8034687918742909
+2017,Idukki,Kidnapping & Abduction,19,Violent Crime,False,Central,1108974,1.7132953522805765
+2018,Idukki,Kidnapping & Abduction,18,Violent Crime,False,Central,1108974,1.623121912686862
+2019,Idukki,Kidnapping & Abduction,18,Violent Crime,False,Central,1108974,1.623121912686862
+2020,Idukki,Kidnapping & Abduction,14,Violent Crime,False,Central,1108974,1.2624281543120037
+2021,Idukki,Kidnapping & Abduction,25,Violent Crime,False,Central,1108974,2.2543359898428634
+2022,Idukki,Kidnapping & Abduction,21,Violent Crime,False,Central,1108974,1.8936422314680055
+2023,Idukki,Kidnapping & Abduction,26,Violent Crime,False,Central,1108974,2.3445094294365783
+2016,Idukki,Molestation,112,Crimes Against Women,False,Central,1108974,10.09942523449603
+2017,Idukki,Molestation,103,Crimes Against Women,False,Central,1108974,9.287864278152599
+2018,Idukki,Molestation,100,Crimes Against Women,False,Central,1108974,9.017343959371454
+2019,Idukki,Molestation,136,Crimes Against Women,False,Central,1108974,12.26358778474518
+2020,Idukki,Molestation,102,Crimes Against Women,False,Central,1108974,9.197690838558884
+2021,Idukki,Molestation,141,Crimes Against Women,False,Central,1108974,12.714454982713752
+2022,Idukki,Molestation,149,Crimes Against Women,False,Central,1108974,13.435842499463467
+2023,Idukki,Molestation,123,Crimes Against Women,False,Central,1108974,11.09133307002689
+2016,Idukki,Murder,9,Violent Crime,False,Central,1108974,0.811560956343431
+2017,Idukki,Murder,10,Violent Crime,False,Central,1108974,0.9017343959371454
+2018,Idukki,Murder,10,Violent Crime,False,Central,1108974,0.9017343959371454
+2019,Idukki,Murder,10,Violent Crime,False,Central,1108974,0.9017343959371454
+2020,Idukki,Murder,10,Violent Crime,False,Central,1108974,0.9017343959371454
+2021,Idukki,Murder,9,Violent Crime,False,Central,1108974,0.811560956343431
+2022,Idukki,Murder,11,Violent Crime,False,Central,1108974,0.9919078355308601
+2023,Idukki,Murder,10,Violent Crime,False,Central,1108974,0.9017343959371454
+2016,Idukki,NDPS Act,138,Special & Local Laws,False,Central,1108974,12.443934663932609
+2017,Idukki,NDPS Act,146,Special & Local Laws,False,Central,1108974,13.165322180682326
+2018,Idukki,NDPS Act,163,Special & Local Laws,False,Central,1108974,14.698270653775472
+2019,Idukki,NDPS Act,202,Special & Local Laws,False,Central,1108974,18.21503479793034
+2020,Idukki,NDPS Act,208,Special & Local Laws,False,Central,1108974,18.756075435492626
+2021,Idukki,NDPS Act,331,Special & Local Laws,False,Central,1108974,29.847408505519518
+2022,Idukki,NDPS Act,357,Special & Local Laws,False,Central,1108974,32.191917934956095
+2023,Idukki,NDPS Act,415,Special & Local Laws,False,Central,1108974,37.42197743139154
+2016,Idukki,Rape,31,Crimes Against Women,False,Central,1108974,2.795376627405151
+2017,Idukki,Rape,32,Crimes Against Women,False,Central,1108974,2.885550066998866
+2018,Idukki,Rape,33,Crimes Against Women,False,Central,1108974,2.9757235065925802
+2019,Idukki,Rape,26,Crimes Against Women,False,Central,1108974,2.3445094294365783
+2020,Idukki,Rape,29,Crimes Against Women,False,Central,1108974,2.615029748217722
+2021,Idukki,Rape,41,Crimes Against Women,False,Central,1108974,3.6971110233422966
+2022,Idukki,Rape,41,Crimes Against Women,False,Central,1108974,3.6971110233422966
+2023,Idukki,Rape,42,Crimes Against Women,False,Central,1108974,3.787284462936011
+2016,Idukki,Riots,86,Violent Crime,False,Central,1108974,7.7549158050594516
+2017,Idukki,Riots,74,Violent Crime,False,Central,1108974,6.672834529934876
+2018,Idukki,Riots,66,Violent Crime,False,Central,1108974,5.9514470131851605
+2019,Idukki,Riots,77,Violent Crime,False,Central,1108974,6.94335484871602
+2020,Idukki,Riots,38,Violent Crime,False,Central,1108974,3.426590704561153
+2021,Idukki,Riots,59,Violent Crime,False,Central,1108974,5.320232936029159
+2022,Idukki,Riots,62,Violent Crime,False,Central,1108974,5.590753254810302
+2023,Idukki,Riots,63,Violent Crime,False,Central,1108974,5.680926694404016
+2016,Idukki,Robbery,18,Property Crime,False,Central,1108974,1.623121912686862
+2017,Idukki,Robbery,16,Property Crime,False,Central,1108974,1.442775033499433
+2018,Idukki,Robbery,16,Property Crime,False,Central,1108974,1.442775033499433
+2019,Idukki,Robbery,18,Property Crime,False,Central,1108974,1.623121912686862
+2020,Idukki,Robbery,12,Property Crime,False,Central,1108974,1.0820812751245745
+2021,Idukki,Robbery,17,Property Crime,False,Central,1108974,1.5329484730931475
+2022,Idukki,Robbery,14,Property Crime,False,Central,1108974,1.2624281543120037
+2023,Idukki,Robbery,13,Property Crime,False,Central,1108974,1.1722547147182891
+2016,Idukki,Theft,275,Property Crime,False,Central,1108974,24.797695888271498
+2017,Idukki,Theft,226,Property Crime,False,Central,1108974,20.37919734817949
+2018,Idukki,Theft,240,Property Crime,False,Central,1108974,21.641625502491493
+2019,Idukki,Theft,213,Property Crime,False,Central,1108974,19.2069426334612
+2020,Idukki,Theft,144,Property Crime,False,Central,1108974,12.984975301494895
+2021,Idukki,Theft,221,Property Crime,False,Central,1108974,19.928330150210915
+2022,Idukki,Theft,247,Property Crime,False,Central,1108974,22.272839579647496
+2023,Idukki,Theft,213,Property Crime,False,Central,1108974,19.2069426334612
+2016,Kannur,Abkari Act,497,Special & Local Laws,False,North,2523003,19.698747880997367
+2017,Kannur,Abkari Act,458,Special & Local Laws,False,North,2523003,18.152970884299386
+2018,Kannur,Abkari Act,450,Special & Local Laws,False,North,2523003,17.83588842343826
+2019,Kannur,Abkari Act,405,Special & Local Laws,False,North,2523003,16.052299581094434
+2020,Kannur,Abkari Act,447,Special & Local Laws,False,North,2523003,17.716982500615337
+2021,Kannur,Abkari Act,464,Special & Local Laws,False,North,2523003,18.39078272994523
+2022,Kannur,Abkari Act,380,Special & Local Laws,False,North,2523003,15.06141689090342
+2023,Kannur,Abkari Act,384,Special & Local Laws,False,North,2523003,15.219958121333983
+2016,Kannur,Attempt to Murder,33,Violent Crime,False,North,2523003,1.307965151052139
+2017,Kannur,Attempt to Murder,35,Violent Crime,False,North,2523003,1.3872357662674202
+2018,Kannur,Attempt to Murder,32,Violent Crime,False,North,2523003,1.2683298434444985
+2019,Kannur,Attempt to Murder,35,Violent Crime,False,North,2523003,1.3872357662674202
+2020,Kannur,Attempt to Murder,30,Violent Crime,False,North,2523003,1.1890592282292174
+2021,Kannur,Attempt to Murder,36,Violent Crime,False,North,2523003,1.426871073875061
+2022,Kannur,Attempt to Murder,38,Violent Crime,False,North,2523003,1.5061416890903419
+2023,Kannur,Attempt to Murder,38,Violent Crime,False,North,2523003,1.5061416890903419
+2016,Kannur,Burglary,303,Property Crime,False,North,2523003,12.009498205115095
+2017,Kannur,Burglary,281,Property Crime,False,North,2523003,11.137521437747003
+2018,Kannur,Burglary,247,Property Crime,False,North,2523003,9.789920979087222
+2019,Kannur,Burglary,226,Property Crime,False,North,2523003,8.95757951932677
+2020,Kannur,Burglary,189,Property Crime,False,North,2523003,7.49107313784407
+2021,Kannur,Burglary,244,Property Crime,False,North,2523003,9.671015056264302
+2022,Kannur,Burglary,243,Property Crime,False,North,2523003,9.631379748656661
+2023,Kannur,Burglary,219,Property Crime,False,North,2523003,8.680132366073288
+2016,Kannur,Cheating,207,Economic & Cyber Crime,False,North,2523003,8.2045086747816
+2017,Kannur,Cheating,236,Economic & Cyber Crime,False,North,2523003,9.353932595403176
+2018,Kannur,Cheating,206,Economic & Cyber Crime,False,North,2523003,8.164873367173959
+2019,Kannur,Cheating,270,Economic & Cyber Crime,False,North,2523003,10.701533054062955
+2020,Kannur,Cheating,269,Economic & Cyber Crime,False,North,2523003,10.661897746455315
+2021,Kannur,Cheating,266,Economic & Cyber Crime,False,North,2523003,10.542991823632395
+2022,Kannur,Cheating,288,Economic & Cyber Crime,False,North,2523003,11.414968591000488
+2023,Kannur,Cheating,385,Economic & Cyber Crime,False,North,2523003,15.259593428941622
+2016,Kannur,Cruelty by Husband/Relatives,153,Crimes Against Women,False,North,2523003,6.064202063969009
+2017,Kannur,Cruelty by Husband/Relatives,153,Crimes Against Women,False,North,2523003,6.064202063969009
+2018,Kannur,Cruelty by Husband/Relatives,157,Crimes Against Women,False,North,2523003,6.22274329439957
+2019,Kannur,Cruelty by Husband/Relatives,157,Crimes Against Women,False,North,2523003,6.22274329439957
+2020,Kannur,Cruelty by Husband/Relatives,146,Crimes Against Women,False,North,2523003,5.786754910715524
+2021,Kannur,Cruelty by Husband/Relatives,154,Crimes Against Women,False,North,2523003,6.103837371576648
+2022,Kannur,Cruelty by Husband/Relatives,140,Crimes Against Women,False,North,2523003,5.548943065069681
+2023,Kannur,Cruelty by Husband/Relatives,136,Crimes Against Women,False,North,2523003,5.3904018346391185
+2016,Kannur,Cyber Crime,16,Economic & Cyber Crime,False,North,2523003,0.6341649217222493
+2017,Kannur,Cyber Crime,20,Economic & Cyber Crime,False,North,2523003,0.7927061521528115
+2018,Kannur,Cyber Crime,30,Economic & Cyber Crime,False,North,2523003,1.1890592282292174
+2019,Kannur,Cyber Crime,36,Economic & Cyber Crime,False,North,2523003,1.426871073875061
+2020,Kannur,Cyber Crime,49,Economic & Cyber Crime,False,North,2523003,1.9421300727743884
+2021,Kannur,Cyber Crime,57,Economic & Cyber Crime,False,North,2523003,2.259212533635513
+2022,Kannur,Cyber Crime,74,Economic & Cyber Crime,False,North,2523003,2.9330127629654026
+2023,Kannur,Cyber Crime,87,Economic & Cyber Crime,False,North,2523003,3.4482717618647305
+2016,Kannur,Hurt,1088,Violent Crime,False,North,2523003,43.12321467711295
+2017,Kannur,Hurt,1489,Violent Crime,False,North,2523003,59.01697302777683
+2018,Kannur,Hurt,1603,Violent Crime,False,North,2523003,63.535398095047846
+2019,Kannur,Hurt,1302,Violent Crime,False,North,2523003,51.60517050514803
+2020,Kannur,Hurt,1147,Violent Crime,False,North,2523003,45.461697825963746
+2021,Kannur,Hurt,1153,Violent Crime,False,North,2523003,45.69950967160959
+2022,Kannur,Hurt,1302,Violent Crime,False,North,2523003,51.60517050514803
+2023,Kannur,Hurt,1389,Violent Crime,False,North,2523003,55.05344226701276
+2016,Kannur,Kidnapping & Abduction,33,Violent Crime,False,North,2523003,1.307965151052139
+2017,Kannur,Kidnapping & Abduction,30,Violent Crime,False,North,2523003,1.1890592282292174
+2018,Kannur,Kidnapping & Abduction,30,Violent Crime,False,North,2523003,1.1890592282292174
+2019,Kannur,Kidnapping & Abduction,36,Violent Crime,False,North,2523003,1.426871073875061
+2020,Kannur,Kidnapping & Abduction,23,Violent Crime,False,North,2523003,0.9116120749757333
+2021,Kannur,Kidnapping & Abduction,35,Violent Crime,False,North,2523003,1.3872357662674202
+2022,Kannur,Kidnapping & Abduction,34,Violent Crime,False,North,2523003,1.3476004586597796
+2023,Kannur,Kidnapping & Abduction,35,Violent Crime,False,North,2523003,1.3872357662674202
+2016,Kannur,Molestation,96,Crimes Against Women,False,North,2523003,3.8049895303334957
+2017,Kannur,Molestation,88,Crimes Against Women,False,North,2523003,3.4879070694723704
+2018,Kannur,Molestation,104,Crimes Against Women,False,North,2523003,4.12207199119462
+2019,Kannur,Molestation,108,Crimes Against Women,False,North,2523003,4.280613221625183
+2020,Kannur,Molestation,88,Crimes Against Women,False,North,2523003,3.4879070694723704
+2021,Kannur,Molestation,114,Crimes Against Women,False,North,2523003,4.518425067271026
+2022,Kannur,Molestation,121,Crimes Against Women,False,North,2523003,4.79587222052451
+2023,Kannur,Molestation,113,Crimes Against Women,False,North,2523003,4.478789759663385
+2016,Kannur,Murder,23,Violent Crime,False,North,2523003,0.9116120749757333
+2017,Kannur,Murder,25,Violent Crime,False,North,2523003,0.9908826901910144
+2018,Kannur,Murder,22,Violent Crime,False,North,2523003,0.8719767673680926
+2019,Kannur,Murder,21,Violent Crime,False,North,2523003,0.8323414597604522
+2020,Kannur,Murder,26,Violent Crime,False,North,2523003,1.030517997798655
+2021,Kannur,Murder,25,Violent Crime,False,North,2523003,0.9908826901910144
+2022,Kannur,Murder,26,Violent Crime,False,North,2523003,1.030517997798655
+2023,Kannur,Murder,21,Violent Crime,False,North,2523003,0.8323414597604522
+2016,Kannur,NDPS Act,312,Special & Local Laws,False,North,2523003,12.36621597358386
+2017,Kannur,NDPS Act,398,Special & Local Laws,False,North,2523003,15.77485242784095
+2018,Kannur,NDPS Act,372,Special & Local Laws,False,North,2523003,14.744334430042295
+2019,Kannur,NDPS Act,462,Special & Local Laws,False,North,2523003,18.311512114729947
+2020,Kannur,NDPS Act,365,Special & Local Laws,False,North,2523003,14.46688727678881
+2021,Kannur,NDPS Act,614,Special & Local Laws,False,North,2523003,24.336078871091313
+2022,Kannur,NDPS Act,751,Special & Local Laws,False,North,2523003,29.766116013338074
+2023,Kannur,NDPS Act,980,Special & Local Laws,False,North,2523003,38.84260145548777
+2016,Kannur,Rape,51,Crimes Against Women,False,North,2523003,2.0214006879896695
+2017,Kannur,Rape,52,Crimes Against Women,False,North,2523003,2.06103599559731
+2018,Kannur,Rape,62,Crimes Against Women,False,North,2523003,2.457389071673716
+2019,Kannur,Rape,65,Crimes Against Women,False,North,2523003,2.576294994496638
+2020,Kannur,Rape,57,Crimes Against Women,False,North,2523003,2.259212533635513
+2021,Kannur,Rape,59,Crimes Against Women,False,North,2523003,2.338483148850794
+2022,Kannur,Rape,67,Crimes Against Women,False,North,2523003,2.655565609711919
+2023,Kannur,Rape,70,Crimes Against Women,False,North,2523003,2.7744715325348404
+2016,Kannur,Riots,101,Violent Crime,False,North,2523003,4.003166068371698
+2017,Kannur,Riots,95,Violent Crime,False,North,2523003,3.765354222725855
+2018,Kannur,Riots,91,Violent Crime,False,North,2523003,3.6068129922952923
+2019,Kannur,Riots,82,Violent Crime,False,North,2523003,3.2500952238265275
+2020,Kannur,Riots,49,Violent Crime,False,North,2523003,1.9421300727743884
+2021,Kannur,Riots,73,Violent Crime,False,North,2523003,2.893377455357762
+2022,Kannur,Riots,70,Violent Crime,False,North,2523003,2.7744715325348404
+2023,Kannur,Riots,57,Violent Crime,False,North,2523003,2.259212533635513
+2016,Kannur,Robbery,39,Property Crime,False,North,2523003,1.5457769966979824
+2017,Kannur,Robbery,36,Property Crime,False,North,2523003,1.426871073875061
+2018,Kannur,Robbery,40,Property Crime,False,North,2523003,1.585412304305623
+2019,Kannur,Robbery,38,Property Crime,False,North,2523003,1.5061416890903419
+2020,Kannur,Robbery,31,Property Crime,False,North,2523003,1.228694535836858
+2021,Kannur,Robbery,40,Property Crime,False,North,2523003,1.585412304305623
+2022,Kannur,Robbery,39,Property Crime,False,North,2523003,1.5457769966979824
+2023,Kannur,Robbery,36,Property Crime,False,North,2523003,1.426871073875061
+2016,Kannur,Theft,299,Property Crime,False,North,2523003,11.850956974684532
+2017,Kannur,Theft,367,Property Crime,False,North,2523003,14.546157892004091
+2018,Kannur,Theft,372,Property Crime,False,North,2523003,14.744334430042295
+2019,Kannur,Theft,302,Property Crime,False,North,2523003,11.969862897507454
+2020,Kannur,Theft,302,Property Crime,True,North,2523003,11.969862897507454
+2021,Kannur,Theft,302,Property Crime,False,North,2523003,11.969862897507454
+2022,Kannur,Theft,343,Property Crime,False,North,2523003,13.59491050942072
+2023,Kannur,Theft,306,Property Crime,False,North,2523003,12.128404127938017
+2016,Kasaragod,Abkari Act,451,Special & Local Laws,False,North,1307375,34.49660579405297
+2017,Kasaragod,Abkari Act,420,Special & Local Laws,False,North,1307375,32.12544220288747
+2018,Kasaragod,Abkari Act,416,Special & Local Laws,False,North,1307375,31.819485610479013
+2019,Kasaragod,Abkari Act,384,Special & Local Laws,False,North,1307375,29.371832871211396
+2020,Kasaragod,Abkari Act,417,Special & Local Laws,False,North,1307375,31.895974758581126
+2021,Kasaragod,Abkari Act,350,Special & Local Laws,False,North,1307375,26.771201835739554
+2022,Kasaragod,Abkari Act,369,Special & Local Laws,False,North,1307375,28.224495649679703
+2023,Kasaragod,Abkari Act,334,Special & Local Laws,False,North,1307375,25.54737546610575
+2016,Kasaragod,Attempt to Murder,21,Violent Crime,False,North,1307375,1.6062721101443733
+2017,Kasaragod,Attempt to Murder,22,Violent Crime,False,North,1307375,1.6827612582464864
+2018,Kasaragod,Attempt to Murder,23,Violent Crime,False,North,1307375,1.7592504063485992
+2019,Kasaragod,Attempt to Murder,23,Violent Crime,False,North,1307375,1.7592504063485992
+2020,Kasaragod,Attempt to Murder,19,Violent Crime,False,North,1307375,1.4532938139401472
+2021,Kasaragod,Attempt to Murder,23,Violent Crime,False,North,1307375,1.7592504063485992
+2022,Kasaragod,Attempt to Murder,25,Violent Crime,False,North,1307375,1.9122287025528255
+2023,Kasaragod,Attempt to Murder,25,Violent Crime,False,North,1307375,1.9122287025528255
+2016,Kasaragod,Burglary,132,Property Crime,False,North,1307375,10.096567549478918
+2017,Kasaragod,Burglary,133,Property Crime,False,North,1307375,10.173056697581032
+2018,Kasaragod,Burglary,123,Property Crime,False,North,1307375,9.4081652165599
+2019,Kasaragod,Burglary,133,Property Crime,False,North,1307375,10.173056697581032
+2020,Kasaragod,Burglary,101,Property Crime,False,North,1307375,7.7254039583134135
+2021,Kasaragod,Burglary,128,Property Crime,False,North,1307375,9.790610957070466
+2022,Kasaragod,Burglary,120,Property Crime,False,North,1307375,9.178697772253562
+2023,Kasaragod,Burglary,113,Property Crime,False,North,1307375,8.64327373553877
+2016,Kasaragod,Cheating,92,Economic & Cyber Crime,False,North,1307375,7.037001625394397
+2017,Kasaragod,Cheating,87,Economic & Cyber Crime,False,North,1307375,6.654555884883832
+2018,Kasaragod,Cheating,110,Economic & Cyber Crime,False,North,1307375,8.413806291232431
+2019,Kasaragod,Cheating,116,Economic & Cyber Crime,False,North,1307375,8.872741179845109
+2020,Kasaragod,Cheating,106,Economic & Cyber Crime,False,North,1307375,8.10784969882398
+2021,Kasaragod,Cheating,120,Economic & Cyber Crime,False,North,1307375,9.178697772253562
+2022,Kasaragod,Cheating,111,Economic & Cyber Crime,False,North,1307375,8.490295439334545
+2023,Kasaragod,Cheating,143,Economic & Cyber Crime,False,North,1307375,10.937948178602161
+2016,Kasaragod,Cruelty by Husband/Relatives,107,Crimes Against Women,False,North,1307375,8.184338846926092
+2017,Kasaragod,Cruelty by Husband/Relatives,101,Crimes Against Women,False,North,1307375,7.7254039583134135
+2018,Kasaragod,Cruelty by Husband/Relatives,97,Crimes Against Women,False,North,1307375,7.419447365904962
+2019,Kasaragod,Cruelty by Husband/Relatives,92,Crimes Against Women,False,North,1307375,7.037001625394397
+2020,Kasaragod,Cruelty by Husband/Relatives,109,Crimes Against Women,False,North,1307375,8.337317143130319
+2021,Kasaragod,Cruelty by Husband/Relatives,88,Crimes Against Women,False,North,1307375,6.7310450329859455
+2022,Kasaragod,Cruelty by Husband/Relatives,98,Crimes Against Women,False,North,1307375,7.4959365140070755
+2023,Kasaragod,Cruelty by Husband/Relatives,102,Crimes Against Women,False,North,1307375,7.801893106415527
+2016,Kasaragod,Cyber Crime,6,Economic & Cyber Crime,False,North,1307375,0.45893488861267806
+2017,Kasaragod,Cyber Crime,7,Economic & Cyber Crime,False,North,1307375,0.535424036714791
+2018,Kasaragod,Cyber Crime,9,Economic & Cyber Crime,False,North,1307375,0.6884023329190172
+2019,Kasaragod,Cyber Crime,12,Economic & Cyber Crime,False,North,1307375,0.9178697772253561
+2020,Kasaragod,Cyber Crime,17,Economic & Cyber Crime,False,North,1307375,1.3003155177359211
+2021,Kasaragod,Cyber Crime,20,Economic & Cyber Crime,False,North,1307375,1.52978296204226
+2022,Kasaragod,Cyber Crime,25,Economic & Cyber Crime,False,North,1307375,1.9122287025528255
+2023,Kasaragod,Cyber Crime,31,Economic & Cyber Crime,False,North,1307375,2.3711635911655033
+2016,Kasaragod,Hurt,769,Violent Crime,False,North,1307375,58.820154890524904
+2017,Kasaragod,Hurt,728,Violent Crime,False,North,1307375,55.68409981833827
+2018,Kasaragod,Hurt,639,Violent Crime,False,North,1307375,48.876565637250216
+2019,Kasaragod,Hurt,729,Violent Crime,False,North,1307375,55.76058896644039
+2020,Kasaragod,Hurt,523,Violent Crime,False,North,1307375,40.00382445740511
+2021,Kasaragod,Hurt,690,Violent Crime,False,North,1307375,52.77751219045798
+2022,Kasaragod,Hurt,739,Violent Crime,False,North,1307375,56.52548044746151
+2023,Kasaragod,Hurt,774,Violent Crime,False,North,1307375,59.20260063103547
+2016,Kasaragod,Kidnapping & Abduction,17,Violent Crime,False,North,1307375,1.3003155177359211
+2017,Kasaragod,Kidnapping & Abduction,21,Violent Crime,False,North,1307375,1.6062721101443733
+2018,Kasaragod,Kidnapping & Abduction,19,Violent Crime,False,North,1307375,1.4532938139401472
+2019,Kasaragod,Kidnapping & Abduction,19,Violent Crime,False,North,1307375,1.4532938139401472
+2020,Kasaragod,Kidnapping & Abduction,14,Violent Crime,False,North,1307375,1.070848073429582
+2021,Kasaragod,Kidnapping & Abduction,22,Violent Crime,False,North,1307375,1.6827612582464864
+2022,Kasaragod,Kidnapping & Abduction,21,Violent Crime,False,North,1307375,1.6062721101443733
+2023,Kasaragod,Kidnapping & Abduction,25,Violent Crime,False,North,1307375,1.9122287025528255
+2016,Kasaragod,Molestation,86,Crimes Against Women,False,North,1307375,6.578066736781719
+2017,Kasaragod,Molestation,72,Crimes Against Women,False,North,1307375,5.507218663352138
+2018,Kasaragod,Molestation,78,Crimes Against Women,False,North,1307375,5.966153551964815
+2019,Kasaragod,Molestation,87,Crimes Against Women,False,North,1307375,6.654555884883832
+2020,Kasaragod,Molestation,73,Crimes Against Women,False,North,1307375,5.58370781145425
+2021,Kasaragod,Molestation,87,Crimes Against Women,False,North,1307375,6.654555884883832
+2022,Kasaragod,Molestation,102,Crimes Against Women,False,North,1307375,7.801893106415527
+2023,Kasaragod,Molestation,100,Crimes Against Women,False,North,1307375,7.648914810211302
+2016,Kasaragod,Murder,13,Violent Crime,False,North,1307375,0.9943589253274692
+2017,Kasaragod,Murder,13,Violent Crime,False,North,1307375,0.9943589253274692
+2018,Kasaragod,Murder,13,Violent Crime,False,North,1307375,0.9943589253274692
+2019,Kasaragod,Murder,14,Violent Crime,False,North,1307375,1.070848073429582
+2020,Kasaragod,Murder,13,Violent Crime,False,North,1307375,0.9943589253274692
+2021,Kasaragod,Murder,13,Violent Crime,False,North,1307375,0.9943589253274692
+2022,Kasaragod,Murder,13,Violent Crime,False,North,1307375,0.9943589253274692
+2023,Kasaragod,Murder,11,Violent Crime,False,North,1307375,0.8413806291232432
+2016,Kasaragod,NDPS Act,128,Special & Local Laws,False,North,1307375,9.790610957070466
+2017,Kasaragod,NDPS Act,163,Special & Local Laws,False,North,1307375,12.467731140644421
+2018,Kasaragod,NDPS Act,170,Special & Local Laws,False,North,1307375,13.003155177359211
+2019,Kasaragod,NDPS Act,236,Special & Local Laws,False,North,1307375,18.05143895209867
+2020,Kasaragod,NDPS Act,189,Special & Local Laws,False,North,1307375,14.45644899129936
+2021,Kasaragod,NDPS Act,265,Special & Local Laws,False,North,1307375,20.269624247059948
+2022,Kasaragod,NDPS Act,374,Special & Local Laws,False,North,1307375,28.60694139019027
+2023,Kasaragod,NDPS Act,451,Special & Local Laws,False,North,1307375,34.49660579405297
+2016,Kasaragod,Rape,34,Crimes Against Women,False,North,1307375,2.6006310354718423
+2017,Kasaragod,Rape,38,Crimes Against Women,False,North,1307375,2.9065876278802945
+2018,Kasaragod,Rape,37,Crimes Against Women,False,North,1307375,2.8300984797781816
+2019,Kasaragod,Rape,39,Crimes Against Women,False,North,1307375,2.9830767759824073
+2020,Kasaragod,Rape,39,Crimes Against Women,False,North,1307375,2.9830767759824073
+2021,Kasaragod,Rape,48,Crimes Against Women,False,North,1307375,3.6714791089014245
+2022,Kasaragod,Rape,51,Crimes Against Women,False,North,1307375,3.9009465532077634
+2023,Kasaragod,Rape,50,Crimes Against Women,False,North,1307375,3.824457405105651
+2016,Kasaragod,Riots,54,Violent Crime,False,North,1307375,4.130413997514102
+2017,Kasaragod,Riots,46,Violent Crime,False,North,1307375,3.5185008126971984
+2018,Kasaragod,Riots,47,Violent Crime,False,North,1307375,3.5949899607993117
+2019,Kasaragod,Riots,44,Violent Crime,False,North,1307375,3.3655225164929727
+2020,Kasaragod,Riots,21,Violent Crime,False,North,1307375,1.6062721101443733
+2021,Kasaragod,Riots,34,Violent Crime,False,North,1307375,2.6006310354718423
+2022,Kasaragod,Riots,34,Violent Crime,False,North,1307375,2.6006310354718423
+2023,Kasaragod,Riots,35,Violent Crime,False,North,1307375,2.6771201835739555
+2016,Kasaragod,Robbery,19,Property Crime,False,North,1307375,1.4532938139401472
+2017,Kasaragod,Robbery,17,Property Crime,False,North,1307375,1.3003155177359211
+2018,Kasaragod,Robbery,17,Property Crime,False,North,1307375,1.3003155177359211
+2019,Kasaragod,Robbery,14,Property Crime,False,North,1307375,1.070848073429582
+2020,Kasaragod,Robbery,9,Property Crime,False,North,1307375,0.6884023329190172
+2021,Kasaragod,Robbery,15,Property Crime,False,North,1307375,1.1473372215316953
+2022,Kasaragod,Robbery,14,Property Crime,False,North,1307375,1.070848073429582
+2023,Kasaragod,Robbery,14,Property Crime,False,North,1307375,1.070848073429582
+2016,Kasaragod,Theft,337,Property Crime,False,North,1307375,25.776842910412086
+2017,Kasaragod,Theft,332,Property Crime,False,North,1307375,25.39439716990152
+2018,Kasaragod,Theft,304,Property Crime,False,North,1307375,23.252701023042356
+2019,Kasaragod,Theft,280,Property Crime,False,North,1307375,21.416961468591644
+2020,Kasaragod,Theft,196,Property Crime,False,North,1307375,14.991873028014151
+2021,Kasaragod,Theft,248,Property Crime,False,North,1307375,18.969308729324027
+2022,Kasaragod,Theft,295,Property Crime,False,North,1307375,22.56429869012334
+2023,Kasaragod,Theft,275,Property Crime,False,North,1307375,21.03451572808108
+2016,Kollam,Abkari Act,859,Special & Local Laws,False,South,2635375,32.594981738841724
+2017,Kollam,Abkari Act,833,Special & Local Laws,False,South,2635375,31.608404875966418
+2018,Kollam,Abkari Act,894,Special & Local Laws,False,South,2635375,33.92306597732771
+2019,Kollam,Abkari Act,750,Special & Local Laws,False,South,2635375,28.4589479675568
+2020,Kollam,Abkari Act,851,Special & Local Laws,False,South,2635375,32.29141962718778
+2021,Kollam,Abkari Act,793,Special & Local Laws,False,South,2635375,30.09059431769672
+2022,Kollam,Abkari Act,702,Special & Local Laws,False,South,2635375,26.637575297633163
+2023,Kollam,Abkari Act,713,Special & Local Laws,False,South,2635375,27.054973201157328
+2016,Kollam,Attempt to Murder,58,Violent Crime,False,South,2635375,2.2008253094910595
+2017,Kollam,Attempt to Murder,64,Violent Crime,False,South,2635375,2.4284968932315136
+2018,Kollam,Attempt to Murder,56,Violent Crime,False,South,2635375,2.1249347815775743
+2019,Kollam,Attempt to Murder,64,Violent Crime,False,South,2635375,2.4284968932315136
+2020,Kollam,Attempt to Murder,62,Violent Crime,False,South,2635375,2.3526063653180285
+2021,Kollam,Attempt to Murder,66,Violent Crime,False,South,2635375,2.5043874211449983
+2022,Kollam,Attempt to Murder,60,Violent Crime,False,South,2635375,2.2767158374045438
+2023,Kollam,Attempt to Murder,65,Violent Crime,False,South,2635375,2.466442157188256
+2016,Kollam,Burglary,284,Property Crime,False,South,2635375,10.77645496371484
+2017,Kollam,Burglary,266,Property Crime,False,South,2635375,10.093440212493478
+2018,Kollam,Burglary,250,Property Crime,False,South,2635375,9.4863159891856
+2019,Kollam,Burglary,235,Property Crime,False,South,2635375,8.917137029834464
+2020,Kollam,Burglary,175,Property Crime,False,South,2635375,6.640421192429921
+2021,Kollam,Burglary,225,Property Crime,False,South,2635375,8.53768439026704
+2022,Kollam,Burglary,222,Property Crime,False,South,2635375,8.423848598396813
+2023,Kollam,Burglary,208,Property Crime,False,South,2635375,7.892614903002419
+2016,Kollam,Cheating,273,Economic & Cyber Crime,False,South,2635375,10.359057060190676
+2017,Kollam,Cheating,284,Economic & Cyber Crime,False,South,2635375,10.77645496371484
+2018,Kollam,Cheating,286,Economic & Cyber Crime,False,South,2635375,10.852345491628327
+2019,Kollam,Cheating,301,Economic & Cyber Crime,False,South,2635375,11.421524450979462
+2020,Kollam,Cheating,326,Economic & Cyber Crime,False,South,2635375,12.370156049898023
+2021,Kollam,Cheating,362,Economic & Cyber Crime,False,South,2635375,13.736185552340748
+2022,Kollam,Cheating,382,Economic & Cyber Crime,False,South,2635375,14.495090831475595
+2023,Kollam,Cheating,393,Economic & Cyber Crime,False,South,2635375,14.912488734999762
+2016,Kollam,Cruelty by Husband/Relatives,163,Crimes Against Women,False,South,2635375,6.185078024949012
+2017,Kollam,Cruelty by Husband/Relatives,154,Crimes Against Women,False,South,2635375,5.8435706493383295
+2018,Kollam,Cruelty by Husband/Relatives,178,Crimes Against Women,False,South,2635375,6.754256984300146
+2019,Kollam,Cruelty by Husband/Relatives,166,Crimes Against Women,False,South,2635375,6.298913816819239
+2020,Kollam,Cruelty by Husband/Relatives,165,Crimes Against Women,False,South,2635375,6.260968552862496
+2021,Kollam,Cruelty by Husband/Relatives,158,Crimes Against Women,False,South,2635375,5.995351705165299
+2022,Kollam,Cruelty by Husband/Relatives,145,Crimes Against Women,False,South,2635375,5.502063273727648
+2023,Kollam,Cruelty by Husband/Relatives,153,Crimes Against Women,False,South,2635375,5.805625385381587
+2016,Kollam,Cyber Crime,19,Economic & Cyber Crime,False,South,2635375,0.7209600151781056
+2017,Kollam,Cyber Crime,24,Economic & Cyber Crime,False,South,2635375,0.9106863349618176
+2018,Kollam,Cyber Crime,29,Economic & Cyber Crime,False,South,2635375,1.1004126547455297
+2019,Kollam,Cyber Crime,38,Economic & Cyber Crime,False,South,2635375,1.4419200303562112
+2020,Kollam,Cyber Crime,62,Economic & Cyber Crime,False,South,2635375,2.3526063653180285
+2021,Kollam,Cyber Crime,66,Economic & Cyber Crime,False,South,2635375,2.5043874211449983
+2022,Kollam,Cyber Crime,85,Economic & Cyber Crime,False,South,2635375,3.225347436323104
+2023,Kollam,Cyber Crime,99,Economic & Cyber Crime,False,South,2635375,3.756581131717497
+2016,Kollam,Hurt,1801,Violent Crime,False,South,2635375,68.33942038609305
+2017,Kollam,Hurt,1734,Violent Crime,False,South,2635375,65.79708770099131
+2018,Kollam,Hurt,1692,Violent Crime,False,South,2635375,64.20338661480814
+2019,Kollam,Hurt,1679,Violent Crime,False,South,2635375,63.710098183370484
+2020,Kollam,Hurt,1311,Violent Crime,False,South,2635375,49.74624104728928
+2021,Kollam,Hurt,1679,Violent Crime,False,South,2635375,63.710098183370484
+2022,Kollam,Hurt,1562,Violent Crime,False,South,2635375,59.27050230043162
+2023,Kollam,Hurt,1490,Violent Crime,False,South,2635375,56.53844329554618
+2016,Kollam,Kidnapping & Abduction,40,Violent Crime,False,South,2635375,1.517810558269696
+2017,Kollam,Kidnapping & Abduction,44,Violent Crime,False,South,2635375,1.6695916140966656
+2018,Kollam,Kidnapping & Abduction,48,Violent Crime,False,South,2635375,1.8213726699236352
+2019,Kollam,Kidnapping & Abduction,48,Violent Crime,False,South,2635375,1.8213726699236352
+2020,Kollam,Kidnapping & Abduction,37,Violent Crime,False,South,2635375,1.4039747663994688
+2021,Kollam,Kidnapping & Abduction,45,Violent Crime,False,South,2635375,1.707536878053408
+2022,Kollam,Kidnapping & Abduction,54,Violent Crime,False,South,2635375,2.0490442536640896
+2023,Kollam,Kidnapping & Abduction,54,Violent Crime,False,South,2635375,2.0490442536640896
+2016,Kollam,Molestation,184,Crimes Against Women,False,South,2635375,6.981928568040601
+2017,Kollam,Molestation,167,Crimes Against Women,False,South,2635375,6.33685908077598
+2018,Kollam,Molestation,196,Crimes Against Women,False,South,2635375,7.43727173552151
+2019,Kollam,Molestation,204,Crimes Against Women,False,South,2635375,7.740833847175449
+2020,Kollam,Molestation,177,Crimes Against Women,False,South,2635375,6.716311720343405
+2021,Kollam,Molestation,207,Crimes Against Women,False,South,2635375,7.854669639045676
+2022,Kollam,Molestation,229,Crimes Against Women,False,South,2635375,8.68946544609401
+2023,Kollam,Molestation,241,Crimes Against Women,False,South,2635375,9.144808613574918
+2016,Kollam,Murder,28,Violent Crime,False,South,2635375,1.0624673907887872
+2017,Kollam,Murder,30,Violent Crime,False,South,2635375,1.1383579187022719
+2018,Kollam,Murder,27,Violent Crime,False,South,2635375,1.0245221268320448
+2019,Kollam,Murder,28,Violent Crime,False,South,2635375,1.0624673907887872
+2020,Kollam,Murder,28,Violent Crime,False,South,2635375,1.0624673907887872
+2021,Kollam,Murder,29,Violent Crime,False,South,2635375,1.1004126547455297
+2022,Kollam,Murder,28,Violent Crime,False,South,2635375,1.0624673907887872
+2023,Kollam,Murder,27,Violent Crime,False,South,2635375,1.0245221268320448
+2016,Kollam,NDPS Act,365,Special & Local Laws,False,South,2635375,13.850021344210974
+2017,Kollam,NDPS Act,484,Special & Local Laws,False,South,2635375,18.365507755063323
+2018,Kollam,NDPS Act,546,Special & Local Laws,False,South,2635375,20.71811412038135
+2019,Kollam,NDPS Act,557,Special & Local Laws,False,South,2635375,21.135512023905516
+2020,Kollam,NDPS Act,640,Special & Local Laws,False,South,2635375,24.284968932315135
+2021,Kollam,NDPS Act,789,Special & Local Laws,False,South,2635375,29.938813261869754
+2022,Kollam,NDPS Act,1044,Special & Local Laws,False,South,2635375,39.61485557083906
+2023,Kollam,NDPS Act,1158,Special & Local Laws,False,South,2635375,43.9406156619077
+2016,Kollam,Rape,93,Crimes Against Women,False,South,2635375,3.5289095479770434
+2017,Kollam,Rape,110,Crimes Against Women,False,South,2635375,4.173979035241664
+2018,Kollam,Rape,101,Crimes Against Women,False,South,2635375,3.8324716596309827
+2019,Kollam,Rape,104,Crimes Against Women,False,South,2635375,3.9463074515012093
+2020,Kollam,Rape,94,Crimes Against Women,False,South,2635375,3.5668548119337853
+2021,Kollam,Rape,107,Crimes Against Women,False,South,2635375,4.060143243371437
+2022,Kollam,Rape,117,Crimes Against Women,False,South,2635375,4.43959588293886
+2023,Kollam,Rape,121,Crimes Against Women,False,South,2635375,4.591376938765831
+2016,Kollam,Riots,129,Violent Crime,False,South,2635375,4.89493905041977
+2017,Kollam,Riots,125,Violent Crime,False,South,2635375,4.7431579945928
+2018,Kollam,Riots,119,Violent Crime,False,South,2635375,4.515486410852345
+2019,Kollam,Riots,109,Violent Crime,False,South,2635375,4.136033771284922
+2020,Kollam,Riots,52,Violent Crime,False,South,2635375,1.9731537257506047
+2021,Kollam,Riots,104,Violent Crime,False,South,2635375,3.9463074515012093
+2022,Kollam,Riots,92,Violent Crime,False,South,2635375,3.4909642840203006
+2023,Kollam,Riots,84,Violent Crime,False,South,2635375,3.1874021723663613
+2016,Kollam,Robbery,51,Property Crime,False,South,2635375,1.9352084617938623
+2017,Kollam,Robbery,52,Property Crime,False,South,2635375,1.9731537257506047
+2018,Kollam,Robbery,50,Property Crime,False,South,2635375,1.89726319783712
+2019,Kollam,Robbery,45,Property Crime,False,South,2635375,1.707536878053408
+2020,Kollam,Robbery,33,Property Crime,False,South,2635375,1.2521937105724992
+2021,Kollam,Robbery,45,Property Crime,False,South,2635375,1.707536878053408
+2022,Kollam,Robbery,50,Property Crime,False,South,2635375,1.89726319783712
+2023,Kollam,Robbery,45,Property Crime,False,South,2635375,1.707536878053408
+2016,Kollam,Theft,935,Property Crime,False,South,2635375,35.47882179955414
+2017,Kollam,Theft,823,Property Crime,False,South,2635375,31.228952236398996
+2018,Kollam,Theft,802,Property Crime,False,South,2635375,30.432101693307406
+2019,Kollam,Theft,796,Property Crime,False,South,2635375,30.20443010956695
+2020,Kollam,Theft,546,Property Crime,False,South,2635375,20.71811412038135
+2021,Kollam,Theft,752,Property Crime,False,South,2635375,28.534838495470282
+2022,Kollam,Theft,755,Property Crime,False,South,2635375,28.648674287340512
+2023,Kollam,Theft,765,Property Crime,False,South,2635375,29.028126926907934
+2016,Kottayam,Abkari Act,538,Special & Local Laws,False,Central,1974551,27.24670064232324
+2017,Kottayam,Abkari Act,539,Special & Local Laws,False,Central,1974551,27.297345067308974
+2018,Kottayam,Abkari Act,490,Special & Local Laws,False,Central,1974551,24.815768243008158
+2019,Kottayam,Abkari Act,486,Special & Local Laws,False,Central,1974551,24.613190543065233
+2020,Kottayam,Abkari Act,547,Special & Local Laws,False,Central,1974551,27.702500467194817
+2021,Kottayam,Abkari Act,425,Special & Local Laws,False,Central,1974551,21.523880618935646
+2022,Kottayam,Abkari Act,487,Special & Local Laws,False,Central,1974551,24.663834968050963
+2023,Kottayam,Abkari Act,399,Special & Local Laws,False,Central,1974551,20.20712556930664
+2016,Kottayam,Attempt to Murder,23,Violent Crime,False,Central,1974551,1.1648217746718115
+2017,Kottayam,Attempt to Murder,23,Violent Crime,False,Central,1974551,1.1648217746718115
+2018,Kottayam,Attempt to Murder,30,Violent Crime,False,Central,1974551,1.519332749571928
+2019,Kottayam,Attempt to Murder,26,Violent Crime,False,Central,1974551,1.3167550496290044
+2020,Kottayam,Attempt to Murder,25,Violent Crime,False,Central,1974551,1.2661106246432732
+2021,Kottayam,Attempt to Murder,24,Violent Crime,False,Central,1974551,1.2154661996575424
+2022,Kottayam,Attempt to Murder,27,Violent Crime,False,Central,1974551,1.3673994746147353
+2023,Kottayam,Attempt to Murder,24,Violent Crime,False,Central,1974551,1.2154661996575424
+2016,Kottayam,Burglary,250,Property Crime,False,Central,1974551,12.661106246432732
+2017,Kottayam,Burglary,221,Property Crime,False,Central,1974551,11.192417921846536
+2018,Kottayam,Burglary,210,Property Crime,False,Central,1974551,10.635329247003495
+2019,Kottayam,Burglary,214,Property Crime,False,Central,1974551,10.83790694694642
+2020,Kottayam,Burglary,130,Property Crime,False,Central,1974551,6.583775248145021
+2021,Kottayam,Burglary,173,Property Crime,False,Central,1974551,8.761485522531451
+2022,Kottayam,Burglary,175,Property Crime,False,Central,1974551,8.862774372502914
+2023,Kottayam,Burglary,193,Property Crime,False,Central,1974551,9.77437402224607
+2016,Kottayam,Cheating,194,Economic & Cyber Crime,False,Central,1974551,9.825018447231802
+2017,Kottayam,Cheating,210,Economic & Cyber Crime,False,Central,1974551,10.635329247003495
+2018,Kottayam,Cheating,243,Economic & Cyber Crime,False,Central,1974551,12.306595271532617
+2019,Kottayam,Cheating,221,Economic & Cyber Crime,False,Central,1974551,11.192417921846536
+2020,Kottayam,Cheating,196,Economic & Cyber Crime,False,Central,1974551,9.926307297203264
+2021,Kottayam,Cheating,245,Economic & Cyber Crime,False,Central,1974551,12.407884121504079
+2022,Kottayam,Cheating,276,Economic & Cyber Crime,False,Central,1974551,13.977861296061736
+2023,Kottayam,Cheating,285,Economic & Cyber Crime,False,Central,1974551,14.433661120933316
+2016,Kottayam,Cruelty by Husband/Relatives,131,Crimes Against Women,False,Central,1974551,6.634419673130753
+2017,Kottayam,Cruelty by Husband/Relatives,122,Crimes Against Women,False,Central,1974551,6.178619848259174
+2018,Kottayam,Cruelty by Husband/Relatives,140,Crimes Against Women,False,Central,1974551,7.09021949800233
+2019,Kottayam,Cruelty by Husband/Relatives,128,Crimes Against Women,False,Central,1974551,6.482486398173559
+2020,Kottayam,Cruelty by Husband/Relatives,130,Crimes Against Women,False,Central,1974551,6.583775248145021
+2021,Kottayam,Cruelty by Husband/Relatives,139,Crimes Against Women,False,Central,1974551,7.0395750730166
+2022,Kottayam,Cruelty by Husband/Relatives,119,Crimes Against Women,False,Central,1974551,6.026686573301982
+2023,Kottayam,Cruelty by Husband/Relatives,115,Crimes Against Women,False,Central,1974551,5.824108873359057
+2016,Kottayam,Cyber Crime,12,Economic & Cyber Crime,False,Central,1974551,0.6077330998287712
+2017,Kottayam,Cyber Crime,19,Economic & Cyber Crime,False,Central,1974551,0.9622440747288877
+2018,Kottayam,Cyber Crime,24,Economic & Cyber Crime,False,Central,1974551,1.2154661996575424
+2019,Kottayam,Cyber Crime,29,Economic & Cyber Crime,False,Central,1974551,1.468688324586197
+2020,Kottayam,Cyber Crime,45,Economic & Cyber Crime,False,Central,1974551,2.2789991243578918
+2021,Kottayam,Cyber Crime,46,Economic & Cyber Crime,False,Central,1974551,2.329643549343623
+2022,Kottayam,Cyber Crime,66,Economic & Cyber Crime,False,Central,1974551,3.3425320490582417
+2023,Kottayam,Cyber Crime,84,Economic & Cyber Crime,False,Central,1974551,4.254131698801398
+2016,Kottayam,Hurt,1196,Violent Crime,False,Central,1974551,60.570732282934195
+2017,Kottayam,Hurt,1114,Violent Crime,False,Central,1974551,56.417889434104254
+2018,Kottayam,Hurt,1060,Violent Crime,False,Central,1974551,53.68309048487479
+2019,Kottayam,Hurt,1222,Violent Crime,False,Central,1974551,61.887487332563204
+2020,Kottayam,Hurt,923,Violent Crime,False,Central,1974551,46.74480426182965
+2021,Kottayam,Hurt,970,Violent Crime,False,Central,1974551,49.125092236159006
+2022,Kottayam,Hurt,962,Violent Crime,False,Central,1974551,48.71993683627316
+2023,Kottayam,Hurt,999,Violent Crime,False,Central,1974551,50.593780560745195
+2016,Kottayam,Kidnapping & Abduction,19,Violent Crime,False,Central,1974551,0.9622440747288877
+2017,Kottayam,Kidnapping & Abduction,21,Violent Crime,False,Central,1974551,1.0635329247003495
+2018,Kottayam,Kidnapping & Abduction,21,Violent Crime,False,Central,1974551,1.0635329247003495
+2019,Kottayam,Kidnapping & Abduction,26,Violent Crime,False,Central,1974551,1.3167550496290044
+2020,Kottayam,Kidnapping & Abduction,15,Violent Crime,False,Central,1974551,0.759666374785964
+2021,Kottayam,Kidnapping & Abduction,20,Violent Crime,False,Central,1974551,1.0128884997146186
+2022,Kottayam,Kidnapping & Abduction,24,Violent Crime,False,Central,1974551,1.2154661996575424
+2023,Kottayam,Kidnapping & Abduction,24,Violent Crime,False,Central,1974551,1.2154661996575424
+2016,Kottayam,Molestation,97,Crimes Against Women,False,Central,1974551,4.912509223615901
+2017,Kottayam,Molestation,126,Crimes Against Women,False,Central,1974551,6.381197548202098
+2018,Kottayam,Molestation,135,Crimes Against Women,False,Central,1974551,6.836997373073676
+2019,Kottayam,Molestation,116,Crimes Against Women,False,Central,1974551,5.874753298344788
+2020,Kottayam,Molestation,93,Crimes Against Women,False,Central,1974551,4.709931523672977
+2021,Kottayam,Molestation,128,Crimes Against Women,False,Central,1974551,6.482486398173559
+2022,Kottayam,Molestation,157,Crimes Against Women,False,Central,1974551,7.951174722759757
+2023,Kottayam,Molestation,135,Crimes Against Women,False,Central,1974551,6.836997373073676
+2016,Kottayam,Murder,12,Violent Crime,False,Central,1974551,0.6077330998287712
+2017,Kottayam,Murder,13,Violent Crime,False,Central,1974551,0.6583775248145022
+2018,Kottayam,Murder,14,Violent Crime,False,Central,1974551,0.709021949800233
+2019,Kottayam,Murder,14,Violent Crime,False,Central,1974551,0.709021949800233
+2020,Kottayam,Murder,14,Violent Crime,False,Central,1974551,0.709021949800233
+2021,Kottayam,Murder,14,Violent Crime,False,Central,1974551,0.709021949800233
+2022,Kottayam,Murder,12,Violent Crime,False,Central,1974551,0.6077330998287712
+2023,Kottayam,Murder,12,Violent Crime,False,Central,1974551,0.6077330998287712
+2016,Kottayam,NDPS Act,259,Special & Local Laws,False,Central,1974551,13.116906071304312
+2017,Kottayam,NDPS Act,395,Special & Local Laws,False,Central,1974551,20.00454786936372
+2018,Kottayam,NDPS Act,373,Special & Local Laws,False,Central,1974551,18.89037051967764
+2019,Kottayam,NDPS Act,405,Special & Local Laws,False,Central,1974551,20.510992119221026
+2020,Kottayam,NDPS Act,452,Special & Local Laws,False,Central,1974551,22.89128009355038
+2021,Kottayam,NDPS Act,660,Special & Local Laws,False,Central,1974551,33.425320490582415
+2022,Kottayam,NDPS Act,600,Special & Local Laws,False,Central,1974551,30.386654991438558
+2023,Kottayam,NDPS Act,800,Special & Local Laws,False,Central,1974551,40.51553998858474
+2016,Kottayam,Rape,43,Crimes Against Women,False,Central,1974551,2.1777102743864303
+2017,Kottayam,Rape,43,Crimes Against Women,False,Central,1974551,2.1777102743864303
+2018,Kottayam,Rape,51,Crimes Against Women,False,Central,1974551,2.5828656742722775
+2019,Kottayam,Rape,44,Crimes Against Women,False,Central,1974551,2.228354699372161
+2020,Kottayam,Rape,39,Crimes Against Women,False,Central,1974551,1.9751325744435064
+2021,Kottayam,Rape,46,Crimes Against Women,False,Central,1974551,2.329643549343623
+2022,Kottayam,Rape,54,Crimes Against Women,False,Central,1974551,2.7347989492294706
+2023,Kottayam,Rape,56,Crimes Against Women,False,Central,1974551,2.836087799200932
+2016,Kottayam,Riots,143,Violent Crime,False,Central,1974551,7.242152772959523
+2017,Kottayam,Riots,124,Violent Crime,False,Central,1974551,6.279908698230636
+2018,Kottayam,Riots,123,Violent Crime,False,Central,1974551,6.229264273244905
+2019,Kottayam,Riots,110,Violent Crime,False,Central,1974551,5.570886748430403
+2020,Kottayam,Riots,70,Violent Crime,False,Central,1974551,3.545109749001165
+2021,Kottayam,Riots,104,Violent Crime,False,Central,1974551,5.267020198516017
+2022,Kottayam,Riots,95,Violent Crime,False,Central,1974551,4.8112203736444386
+2023,Kottayam,Riots,94,Violent Crime,False,Central,1974551,4.760575948658707
+2016,Kottayam,Robbery,27,Property Crime,False,Central,1974551,1.3673994746147353
+2017,Kottayam,Robbery,29,Property Crime,False,Central,1974551,1.468688324586197
+2018,Kottayam,Robbery,31,Property Crime,False,Central,1974551,1.569977174557659
+2019,Kottayam,Robbery,28,Property Crime,False,Central,1974551,1.418043899600466
+2020,Kottayam,Robbery,19,Property Crime,False,Central,1974551,0.9622440747288877
+2021,Kottayam,Robbery,25,Property Crime,False,Central,1974551,1.2661106246432732
+2022,Kottayam,Robbery,26,Property Crime,False,Central,1974551,1.3167550496290044
+2023,Kottayam,Robbery,23,Property Crime,False,Central,1974551,1.1648217746718115
+2016,Kottayam,Theft,457,Property Crime,False,Central,1974551,23.144502218479037
+2017,Kottayam,Theft,467,Property Crime,False,Central,1974551,23.650946468336347
+2018,Kottayam,Theft,466,Property Crime,False,Central,1974551,23.600302043350617
+2019,Kottayam,Theft,488,Property Crime,False,Central,1974551,24.714479393036697
+2020,Kottayam,Theft,299,Property Crime,False,Central,1974551,15.142683070733549
+2021,Kottayam,Theft,409,Property Crime,False,Central,1974551,20.71356981916395
+2022,Kottayam,Theft,465,Property Crime,False,Central,1974551,23.549657618364883
+2023,Kottayam,Theft,426,Property Crime,False,Central,1974551,21.57452504392138
+2016,Kozhikode,Abkari Act,939,Special & Local Laws,False,North,3086293,30.424849487718763
+2017,Kozhikode,Abkari Act,887,Special & Local Laws,False,North,3086293,28.739980293510694
+2018,Kozhikode,Abkari Act,903,Special & Local Laws,False,North,3086293,29.258401584036253
+2019,Kozhikode,Abkari Act,765,Special & Local Laws,False,North,3086293,24.7870179532533
+2020,Kozhikode,Abkari Act,947,Special & Local Laws,False,North,3086293,30.684060132981543
+2021,Kozhikode,Abkari Act,777,Special & Local Laws,False,North,3086293,25.175833921147476
+2022,Kozhikode,Abkari Act,846,Special & Local Laws,False,North,3086293,27.411525736538948
+2023,Kozhikode,Abkari Act,804,Special & Local Laws,False,North,3086293,26.05066984890935
+2016,Kozhikode,Attempt to Murder,51,Violent Crime,False,North,3086293,1.6524678635502204
+2017,Kozhikode,Attempt to Murder,50,Violent Crime,False,North,3086293,1.6200665328923727
+2018,Kozhikode,Attempt to Murder,50,Violent Crime,False,North,3086293,1.6200665328923727
+2019,Kozhikode,Attempt to Murder,47,Violent Crime,False,North,3086293,1.5228625409188306
+2020,Kozhikode,Attempt to Murder,45,Violent Crime,False,North,3086293,1.4580598796031357
+2021,Kozhikode,Attempt to Murder,53,Violent Crime,False,North,3086293,1.7172705248659152
+2022,Kozhikode,Attempt to Murder,55,Violent Crime,False,North,3086293,1.78207318618161
+2023,Kozhikode,Attempt to Murder,50,Violent Crime,False,North,3086293,1.6200665328923727
+2016,Kozhikode,Burglary,291,Property Crime,False,North,3086293,9.42878722143361
+2017,Kozhikode,Burglary,306,Property Crime,False,North,3086293,9.91480718130132
+2018,Kozhikode,Burglary,276,Property Crime,False,North,3086293,8.942767261565898
+2019,Kozhikode,Burglary,293,Property Crime,False,North,3086293,9.493589882749305
+2020,Kozhikode,Burglary,189,Property Crime,False,North,3086293,6.123851494333169
+2021,Kozhikode,Burglary,271,Property Crime,False,North,3086293,8.780760608276662
+2022,Kozhikode,Burglary,225,Property Crime,False,North,3086293,7.290299398015678
+2023,Kozhikode,Burglary,214,Property Crime,False,North,3086293,6.933884760779356
+2016,Kozhikode,Cheating,368,Economic & Cyber Crime,False,North,3086293,11.923689682087863
+2017,Kozhikode,Cheating,351,Economic & Cyber Crime,False,North,3086293,11.372867060904458
+2018,Kozhikode,Cheating,374,Economic & Cyber Crime,False,North,3086293,12.118097666034949
+2019,Kozhikode,Cheating,428,Economic & Cyber Crime,False,North,3086293,13.867769521558712
+2020,Kozhikode,Cheating,415,Economic & Cyber Crime,False,North,3086293,13.446552223006695
+2021,Kozhikode,Cheating,515,Economic & Cyber Crime,False,North,3086293,16.68668528879144
+2022,Kozhikode,Cheating,499,Economic & Cyber Crime,False,North,3086293,16.168263998265882
+2023,Kozhikode,Cheating,487,Economic & Cyber Crime,False,North,3086293,15.77944803037171
+2016,Kozhikode,Cruelty by Husband/Relatives,209,Crimes Against Women,False,North,3086293,6.771878107490118
+2017,Kozhikode,Cruelty by Husband/Relatives,195,Crimes Against Women,False,North,3086293,6.318259478280254
+2018,Kozhikode,Cruelty by Husband/Relatives,219,Crimes Against Women,False,North,3086293,7.095891414068593
+2019,Kozhikode,Cruelty by Husband/Relatives,202,Crimes Against Women,False,North,3086293,6.545068792885186
+2020,Kozhikode,Cruelty by Husband/Relatives,234,Crimes Against Women,False,North,3086293,7.581911373936305
+2021,Kozhikode,Cruelty by Husband/Relatives,220,Crimes Against Women,False,North,3086293,7.12829274472644
+2022,Kozhikode,Cruelty by Husband/Relatives,203,Crimes Against Women,False,North,3086293,6.577470123543034
+2023,Kozhikode,Cruelty by Husband/Relatives,205,Crimes Against Women,False,North,3086293,6.642272784858729
+2016,Kozhikode,Cyber Crime,17,Economic & Cyber Crime,False,North,3086293,0.5508226211834067
+2017,Kozhikode,Cyber Crime,21,Economic & Cyber Crime,False,North,3086293,0.6804279438147967
+2018,Kozhikode,Cyber Crime,28,Economic & Cyber Crime,False,North,3086293,0.9072372584197289
+2019,Kozhikode,Cyber Crime,39,Economic & Cyber Crime,False,North,3086293,1.263651895656051
+2020,Kozhikode,Cyber Crime,53,Economic & Cyber Crime,False,North,3086293,1.7172705248659152
+2021,Kozhikode,Cyber Crime,64,Economic & Cyber Crime,False,North,3086293,2.073685162102237
+2022,Kozhikode,Cyber Crime,75,Economic & Cyber Crime,False,North,3086293,2.430099799338559
+2023,Kozhikode,Cyber Crime,88,Economic & Cyber Crime,False,North,3086293,2.8513170978905764
+2016,Kozhikode,Hurt,1782,Violent Crime,False,North,3086293,57.73917123228417
+2017,Kozhikode,Hurt,1888,Violent Crime,False,North,3086293,61.173712282016
+2018,Kozhikode,Hurt,1798,Violent Crime,False,North,3086293,58.25759252280972
+2019,Kozhikode,Hurt,1649,Violent Crime,False,North,3086293,53.42979425479045
+2020,Kozhikode,Hurt,1312,Violent Crime,False,North,3086293,42.51054582309586
+2021,Kozhikode,Hurt,1611,Violent Crime,False,North,3086293,52.19854368979225
+2022,Kozhikode,Hurt,1878,Violent Crime,False,North,3086293,60.849698975437526
+2023,Kozhikode,Hurt,1504,Violent Crime,False,North,3086293,48.73160130940258
+2016,Kozhikode,Kidnapping & Abduction,45,Violent Crime,False,North,3086293,1.4580598796031357
+2017,Kozhikode,Kidnapping & Abduction,41,Violent Crime,False,North,3086293,1.3284545569717456
+2018,Kozhikode,Kidnapping & Abduction,43,Violent Crime,False,North,3086293,1.3932572182874405
+2019,Kozhikode,Kidnapping & Abduction,46,Violent Crime,False,North,3086293,1.4904612102609829
+2020,Kozhikode,Kidnapping & Abduction,35,Violent Crime,False,North,3086293,1.134046573024661
+2021,Kozhikode,Kidnapping & Abduction,47,Violent Crime,False,North,3086293,1.5228625409188306
+2022,Kozhikode,Kidnapping & Abduction,50,Violent Crime,False,North,3086293,1.6200665328923727
+2023,Kozhikode,Kidnapping & Abduction,53,Violent Crime,False,North,3086293,1.7172705248659152
+2016,Kozhikode,Molestation,214,Crimes Against Women,False,North,3086293,6.933884760779356
+2017,Kozhikode,Molestation,211,Crimes Against Women,False,North,3086293,6.836680768805813
+2018,Kozhikode,Molestation,238,Crimes Against Women,False,North,3086293,7.711516696567695
+2019,Kozhikode,Molestation,223,Crimes Against Women,False,North,3086293,7.2254967366999825
+2020,Kozhikode,Molestation,180,Crimes Against Women,False,North,3086293,5.832239518412543
+2021,Kozhikode,Molestation,238,Crimes Against Women,False,North,3086293,7.711516696567695
+2022,Kozhikode,Molestation,237,Crimes Against Women,False,North,3086293,7.679115365909847
+2023,Kozhikode,Molestation,253,Crimes Against Women,False,North,3086293,8.197536656435407
+2016,Kozhikode,Murder,23,Violent Crime,False,North,3086293,0.7452306051304914
+2017,Kozhikode,Murder,26,Violent Crime,False,North,3086293,0.8424345971040339
+2018,Kozhikode,Murder,25,Violent Crime,False,North,3086293,0.8100332664461863
+2019,Kozhikode,Murder,24,Violent Crime,False,North,3086293,0.777631935788339
+2020,Kozhikode,Murder,22,Violent Crime,False,North,3086293,0.7128292744726441
+2021,Kozhikode,Murder,23,Violent Crime,False,North,3086293,0.7452306051304914
+2022,Kozhikode,Murder,25,Violent Crime,False,North,3086293,0.8100332664461863
+2023,Kozhikode,Murder,23,Violent Crime,False,North,3086293,0.7452306051304914
+2016,Kozhikode,NDPS Act,345,Special & Local Laws,False,North,3086293,11.178459076957372
+2017,Kozhikode,NDPS Act,404,Special & Local Laws,False,North,3086293,13.090137585770371
+2018,Kozhikode,NDPS Act,466,Special & Local Laws,False,North,3086293,15.099020086556914
+2019,Kozhikode,NDPS Act,595,Special & Local Laws,False,North,3086293,19.278791741419237
+2020,Kozhikode,NDPS Act,565,Special & Local Laws,False,North,3086293,18.30675182168381
+2021,Kozhikode,NDPS Act,846,Special & Local Laws,False,North,3086293,27.411525736538948
+2022,Kozhikode,NDPS Act,945,Special & Local Laws,False,North,3086293,30.619257471665847
+2023,Kozhikode,NDPS Act,1021,Special & Local Laws,False,North,3086293,33.08175860166225
+2016,Kozhikode,Rape,92,Crimes Against Women,False,North,3086293,2.9809224205219658
+2017,Kozhikode,Rape,88,Crimes Against Women,False,North,3086293,2.8513170978905764
+2018,Kozhikode,Rape,85,Crimes Against Women,False,North,3086293,2.7541131059170336
+2019,Kozhikode,Rape,90,Crimes Against Women,False,North,3086293,2.9161197592062713
+2020,Kozhikode,Rape,75,Crimes Against Women,False,North,3086293,2.430099799338559
+2021,Kozhikode,Rape,106,Crimes Against Women,False,North,3086293,3.4345410497318305
+2022,Kozhikode,Rape,108,Crimes Against Women,False,North,3086293,3.4993437110475254
+2023,Kozhikode,Rape,101,Crimes Against Women,False,North,3086293,3.272534396442593
+2016,Kozhikode,Riots,157,Violent Crime,False,North,3086293,5.087008913282051
+2017,Kozhikode,Riots,138,Violent Crime,False,North,3086293,4.471383630782949
+2018,Kozhikode,Riots,127,Violent Crime,False,North,3086293,4.114968993546627
+2019,Kozhikode,Riots,120,Violent Crime,False,North,3086293,3.888159678941695
+2020,Kozhikode,Riots,59,Violent Crime,False,North,3086293,1.911678508813
+2021,Kozhikode,Riots,117,Violent Crime,False,North,3086293,3.7909556869681524
+2022,Kozhikode,Riots,94,Violent Crime,False,North,3086293,3.045725081837661
+2023,Kozhikode,Riots,107,Violent Crime,False,North,3086293,3.466942380389678
+2016,Kozhikode,Robbery,60,Property Crime,False,North,3086293,1.9440798394708474
+2017,Kozhikode,Robbery,58,Property Crime,False,North,3086293,1.8792771781551525
+2018,Kozhikode,Robbery,60,Property Crime,False,North,3086293,1.9440798394708474
+2019,Kozhikode,Robbery,56,Property Crime,False,North,3086293,1.8144745168394578
+2020,Kozhikode,Robbery,38,Property Crime,False,North,3086293,1.2312505649982033
+2021,Kozhikode,Robbery,65,Property Crime,False,North,3086293,2.1060864927600846
+2022,Kozhikode,Robbery,56,Property Crime,False,North,3086293,1.8144745168394578
+2023,Kozhikode,Robbery,44,Property Crime,False,North,3086293,1.4256585489452882
+2016,Kozhikode,Theft,790,Property Crime,False,North,3086293,25.597051219699487
+2017,Kozhikode,Theft,808,Property Crime,False,North,3086293,26.180275171540742
+2018,Kozhikode,Theft,783,Property Crime,False,North,3086293,25.37024190509456
+2019,Kozhikode,Theft,786,Property Crime,False,North,3086293,25.4674458970681
+2020,Kozhikode,Theft,494,Property Crime,False,North,3086293,16.006257344976646
+2021,Kozhikode,Theft,664,Property Crime,False,North,3086293,21.514483556810713
+2022,Kozhikode,Theft,701,Property Crime,False,North,3086293,22.713332791151064
+2023,Kozhikode,Theft,729,Property Crime,False,North,3086293,23.620570049570794
+2016,Malappuram,Abkari Act,449,Special & Local Laws,False,North,4112920,10.916818221604116
+2017,Malappuram,Abkari Act,375,Special & Local Laws,False,North,4112920,9.11760987327738
+2018,Malappuram,Abkari Act,489,Special & Local Laws,False,North,4112920,11.889363274753702
+2019,Malappuram,Abkari Act,406,Special & Local Laws,False,North,4112920,9.87133228946831
+2020,Malappuram,Abkari Act,483,Special & Local Laws,False,North,4112920,11.743481516781264
+2021,Malappuram,Abkari Act,387,Special & Local Laws,False,North,4112920,9.409373389222255
+2022,Malappuram,Abkari Act,382,Special & Local Laws,False,North,4112920,9.287805257578558
+2023,Malappuram,Abkari Act,402,Special & Local Laws,False,North,4112920,9.77407778415335
+2016,Malappuram,Attempt to Murder,44,Violent Crime,False,North,4112920,1.0697995584645459
+2017,Malappuram,Attempt to Murder,47,Violent Crime,False,North,4112920,1.142740437450765
+2018,Malappuram,Attempt to Murder,59,Violent Crime,False,North,4112920,1.4345039533956412
+2019,Malappuram,Attempt to Murder,53,Violent Crime,False,North,4112920,1.288622195423203
+2020,Malappuram,Attempt to Murder,48,Violent Crime,False,North,4112920,1.1670540637795046
+2021,Malappuram,Attempt to Murder,51,Violent Crime,False,North,4112920,1.2399949427657238
+2022,Malappuram,Attempt to Murder,55,Violent Crime,False,North,4112920,1.3372494480806825
+2023,Malappuram,Attempt to Murder,55,Violent Crime,False,North,4112920,1.3372494480806825
+2016,Malappuram,Burglary,177,Property Crime,False,North,4112920,4.303511860186923
+2017,Malappuram,Burglary,189,Property Crime,False,North,4112920,4.5952753761317995
+2018,Malappuram,Burglary,190,Property Crime,False,North,4112920,4.619589002460539
+2019,Malappuram,Burglary,171,Property Crime,False,North,4112920,4.157630102214485
+2020,Malappuram,Burglary,134,Property Crime,False,North,4112920,3.258025928051117
+2021,Malappuram,Burglary,165,Property Crime,False,North,4112920,4.011748344242047
+2022,Malappuram,Burglary,132,Property Crime,False,North,4112920,3.209398675393638
+2023,Malappuram,Burglary,150,Property Crime,False,North,4112920,3.6470439493109517
+2016,Malappuram,Cheating,234,Economic & Cyber Crime,False,North,4112920,5.689388560925085
+2017,Malappuram,Cheating,298,Economic & Cyber Crime,False,North,4112920,7.245460645964425
+2018,Malappuram,Cheating,255,Economic & Cyber Crime,False,North,4112920,6.199974713828618
+2019,Malappuram,Cheating,275,Economic & Cyber Crime,False,North,4112920,6.686247240403412
+2020,Malappuram,Cheating,297,Economic & Cyber Crime,False,North,4112920,7.221147019635684
+2021,Malappuram,Cheating,337,Economic & Cyber Crime,False,North,4112920,8.193692072785272
+2022,Malappuram,Cheating,343,Economic & Cyber Crime,False,North,4112920,8.33957383075771
+2023,Malappuram,Cheating,418,Economic & Cyber Crime,False,North,4112920,10.163095805413185
+2016,Malappuram,Cruelty by Husband/Relatives,215,Crimes Against Women,False,North,4112920,5.227429660679031
+2017,Malappuram,Cruelty by Husband/Relatives,175,Crimes Against Women,False,North,4112920,4.254884607529444
+2018,Malappuram,Cruelty by Husband/Relatives,210,Crimes Against Women,False,North,4112920,5.105861529035333
+2019,Malappuram,Cruelty by Husband/Relatives,173,Crimes Against Women,False,North,4112920,4.206257354871965
+2020,Malappuram,Cruelty by Husband/Relatives,216,Crimes Against Women,False,North,4112920,5.251743287007771
+2021,Malappuram,Cruelty by Husband/Relatives,203,Crimes Against Women,False,North,4112920,4.935666144734155
+2022,Malappuram,Cruelty by Husband/Relatives,204,Crimes Against Women,False,North,4112920,4.959979771062895
+2023,Malappuram,Cruelty by Husband/Relatives,194,Crimes Against Women,False,North,4112920,4.716843507775498
+2016,Malappuram,Cyber Crime,14,Economic & Cyber Crime,False,North,4112920,0.3403907686023555
+2017,Malappuram,Cyber Crime,13,Economic & Cyber Crime,False,North,4112920,0.31607714227361583
+2018,Malappuram,Cyber Crime,19,Economic & Cyber Crime,False,North,4112920,0.4619589002460539
+2019,Malappuram,Cyber Crime,28,Economic & Cyber Crime,False,North,4112920,0.680781537204711
+2020,Malappuram,Cyber Crime,43,Economic & Cyber Crime,False,North,4112920,1.0454859321358063
+2021,Malappuram,Cyber Crime,34,Economic & Cyber Crime,False,North,4112920,0.8266632951771491
+2022,Malappuram,Cyber Crime,52,Economic & Cyber Crime,False,North,4112920,1.2643085690944633
+2023,Malappuram,Cyber Crime,70,Economic & Cyber Crime,False,North,4112920,1.7019538430117778
+2016,Malappuram,Hurt,1328,Violent Crime,False,North,4112920,32.28849576456629
+2017,Malappuram,Hurt,1406,Violent Crime,False,North,4112920,34.18495861820799
+2018,Malappuram,Hurt,1563,Violent Crime,False,North,4112920,38.002197951820115
+2019,Malappuram,Hurt,1367,Violent Crime,False,North,4112920,33.236727191387146
+2020,Malappuram,Hurt,978,Violent Crime,False,North,4112920,23.778726549507404
+2021,Malappuram,Hurt,1226,Violent Crime,False,North,4112920,29.808505879034847
+2022,Malappuram,Hurt,1219,Violent Crime,False,North,4112920,29.63831049473367
+2023,Malappuram,Hurt,1282,Violent Crime,False,North,4112920,31.170068953444265
+2016,Malappuram,Kidnapping & Abduction,25,Violent Crime,False,North,4112920,0.607840658218492
+2017,Malappuram,Kidnapping & Abduction,28,Violent Crime,False,North,4112920,0.680781537204711
+2018,Malappuram,Kidnapping & Abduction,27,Violent Crime,False,North,4112920,0.6564679108759713
+2019,Malappuram,Kidnapping & Abduction,30,Violent Crime,False,North,4112920,0.7294087898621904
+2020,Malappuram,Kidnapping & Abduction,18,Violent Crime,False,North,4112920,0.4376452739173142
+2021,Malappuram,Kidnapping & Abduction,27,Violent Crime,False,North,4112920,0.6564679108759713
+2022,Malappuram,Kidnapping & Abduction,28,Violent Crime,False,North,4112920,0.680781537204711
+2023,Malappuram,Kidnapping & Abduction,29,Violent Crime,False,North,4112920,0.7050951635334507
+2016,Malappuram,Molestation,127,Crimes Against Women,False,North,4112920,3.0878305437499396
+2017,Malappuram,Molestation,142,Crimes Against Women,False,North,4112920,3.4525349386810342
+2018,Malappuram,Molestation,120,Crimes Against Women,False,North,4112920,2.9176351594487615
+2019,Malappuram,Molestation,148,Crimes Against Women,False,North,4112920,3.598416696653473
+2020,Malappuram,Molestation,133,Crimes Against Women,False,North,4112920,3.2337123017223774
+2021,Malappuram,Molestation,175,Crimes Against Women,False,North,4112920,4.254884607529444
+2022,Malappuram,Molestation,146,Crimes Against Women,False,North,4112920,3.5497894439959934
+2023,Malappuram,Molestation,156,Crimes Against Women,False,North,4112920,3.7929257072833904
+2016,Malappuram,Murder,28,Violent Crime,False,North,4112920,0.680781537204711
+2017,Malappuram,Murder,29,Violent Crime,False,North,4112920,0.7050951635334507
+2018,Malappuram,Murder,30,Violent Crime,False,North,4112920,0.7294087898621904
+2019,Malappuram,Murder,29,Violent Crime,False,North,4112920,0.7050951635334507
+2020,Malappuram,Murder,28,Violent Crime,False,North,4112920,0.680781537204711
+2021,Malappuram,Murder,27,Violent Crime,False,North,4112920,0.6564679108759713
+2022,Malappuram,Murder,27,Violent Crime,False,North,4112920,0.6564679108759713
+2023,Malappuram,Murder,32,Violent Crime,False,North,4112920,0.7780360425196697
+2016,Malappuram,NDPS Act,268,Special & Local Laws,False,North,4112920,6.516051856102234
+2017,Malappuram,NDPS Act,328,Special & Local Laws,False,North,4112920,7.974869435826616
+2018,Malappuram,NDPS Act,318,Special & Local Laws,False,North,4112920,7.731733172539219
+2019,Malappuram,NDPS Act,404,Special & Local Laws,False,North,4112920,9.82270503681083
+2020,Malappuram,NDPS Act,479,Special & Local Laws,False,North,4112920,11.646227011466305
+2021,Malappuram,NDPS Act,508,Special & Local Laws,False,North,4112920,12.351322174999758
+2022,Malappuram,NDPS Act,614,Special & Local Laws,False,North,4112920,14.928566565846163
+2023,Malappuram,NDPS Act,716,Special & Local Laws,False,North,4112920,17.40855645137761
+2016,Malappuram,Rape,55,Crimes Against Women,False,North,4112920,1.3372494480806825
+2017,Malappuram,Rape,60,Crimes Against Women,False,North,4112920,1.4588175797243808
+2018,Malappuram,Rape,74,Crimes Against Women,False,North,4112920,1.7992083483267365
+2019,Malappuram,Rape,63,Crimes Against Women,False,North,4112920,1.5317584587105997
+2020,Malappuram,Rape,67,Crimes Against Women,False,North,4112920,1.6290129640255584
+2021,Malappuram,Rape,73,Crimes Against Women,False,North,4112920,1.7748947219979967
+2022,Malappuram,Rape,81,Crimes Against Women,False,North,4112920,1.9694037326279141
+2023,Malappuram,Rape,83,Crimes Against Women,False,North,4112920,2.0180309852853933
+2016,Malappuram,Riots,163,Violent Crime,False,North,4112920,3.9631210915845676
+2017,Malappuram,Riots,146,Violent Crime,False,North,4112920,3.5497894439959934
+2018,Malappuram,Riots,137,Violent Crime,False,North,4112920,3.3309668070373357
+2019,Malappuram,Riots,125,Violent Crime,False,North,4112920,3.03920329109246
+2020,Malappuram,Riots,67,Violent Crime,False,North,4112920,1.6290129640255584
+2021,Malappuram,Riots,113,Violent Crime,False,North,4112920,2.747439775147584
+2022,Malappuram,Riots,104,Violent Crime,False,North,4112920,2.5286171381889266
+2023,Malappuram,Riots,106,Violent Crime,False,North,4112920,2.577244390846406
+2016,Malappuram,Robbery,43,Property Crime,False,North,4112920,1.0454859321358063
+2017,Malappuram,Robbery,49,Property Crime,False,North,4112920,1.1913676901082444
+2018,Malappuram,Robbery,43,Property Crime,False,North,4112920,1.0454859321358063
+2019,Malappuram,Robbery,46,Property Crime,False,North,4112920,1.1184268111220252
+2020,Malappuram,Robbery,24,Property Crime,False,North,4112920,0.5835270318897523
+2021,Malappuram,Robbery,38,Property Crime,False,North,4112920,0.9239178004921078
+2022,Malappuram,Robbery,29,Property Crime,False,North,4112920,0.7050951635334507
+2023,Malappuram,Robbery,40,Property Crime,False,North,4112920,0.9725450531495872
+2016,Malappuram,Theft,396,Property Crime,False,North,4112920,9.628196026180913
+2017,Malappuram,Theft,460,Property Crime,False,North,4112920,11.184268111220252
+2018,Malappuram,Theft,362,Property Crime,False,North,4112920,8.801532731003764
+2019,Malappuram,Theft,402,Property Crime,False,North,4112920,9.77407778415335
+2020,Malappuram,Theft,277,Property Crime,False,North,4112920,6.734874493060892
+2021,Malappuram,Theft,353,Property Crime,False,North,4112920,8.582710094045106
+2022,Malappuram,Theft,328,Property Crime,False,North,4112920,7.974869435826616
+2023,Malappuram,Theft,283,Property Crime,False,North,4112920,6.88075625103333
+2016,Palakkad,Abkari Act,372,Special & Local Laws,False,North,2809934,13.238745109315735
+2017,Palakkad,Abkari Act,372,Special & Local Laws,False,North,2809934,13.238745109315735
+2018,Palakkad,Abkari Act,336,Special & Local Laws,False,North,2809934,11.957576227769051
+2019,Palakkad,Abkari Act,310,Special & Local Laws,False,North,2809934,11.032287591096445
+2020,Palakkad,Abkari Act,373,Special & Local Laws,False,North,2809934,13.274333133803141
+2021,Palakkad,Abkari Act,362,Special & Local Laws,False,North,2809934,12.882864864441654
+2022,Palakkad,Abkari Act,272,Special & Local Laws,False,North,2809934,9.679942660574946
+2023,Palakkad,Abkari Act,313,Special & Local Laws,False,North,2809934,11.13905166455867
+2016,Palakkad,Attempt to Murder,28,Violent Crime,False,North,2809934,0.9964646856474209
+2017,Palakkad,Attempt to Murder,28,Violent Crime,False,North,2809934,0.9964646856474209
+2018,Palakkad,Attempt to Murder,31,Violent Crime,False,North,2809934,1.1032287591096446
+2019,Palakkad,Attempt to Murder,30,Violent Crime,False,North,2809934,1.0676407346222367
+2020,Palakkad,Attempt to Murder,31,Violent Crime,False,North,2809934,1.1032287591096446
+2021,Palakkad,Attempt to Murder,29,Violent Crime,False,North,2809934,1.0320527101348287
+2022,Palakkad,Attempt to Murder,28,Violent Crime,False,North,2809934,0.9964646856474209
+2023,Palakkad,Attempt to Murder,30,Violent Crime,False,North,2809934,1.0676407346222367
+2016,Palakkad,Burglary,172,Property Crime,False,North,2809934,6.121140211834158
+2017,Palakkad,Burglary,153,Property Crime,False,North,2809934,5.444967746573407
+2018,Palakkad,Burglary,151,Property Crime,False,North,2809934,5.373791697598591
+2019,Palakkad,Burglary,145,Property Crime,False,North,2809934,5.160263550674144
+2020,Palakkad,Burglary,121,Property Crime,False,North,2809934,4.306150962976354
+2021,Palakkad,Burglary,125,Property Crime,False,North,2809934,4.448503060925987
+2022,Palakkad,Burglary,120,Property Crime,False,North,2809934,4.270562938488947
+2023,Palakkad,Burglary,126,Property Crime,False,North,2809934,4.484091085413394
+2016,Palakkad,Cheating,174,Economic & Cyber Crime,False,North,2809934,6.192316260808973
+2017,Palakkad,Cheating,266,Economic & Cyber Crime,False,North,2809934,9.466414513650498
+2018,Palakkad,Cheating,212,Economic & Cyber Crime,False,North,2809934,7.544661191330473
+2019,Palakkad,Cheating,248,Economic & Cyber Crime,False,North,2809934,8.825830072877157
+2020,Palakkad,Cheating,294,Economic & Cyber Crime,False,North,2809934,10.46287919929792
+2021,Palakkad,Cheating,308,Economic & Cyber Crime,False,North,2809934,10.96111154212163
+2022,Palakkad,Cheating,316,Economic & Cyber Crime,False,North,2809934,11.245815738020893
+2023,Palakkad,Cheating,350,Economic & Cyber Crime,False,North,2809934,12.45580857059276
+2016,Palakkad,Cruelty by Husband/Relatives,127,Crimes Against Women,False,North,2809934,4.519679109900801
+2017,Palakkad,Cruelty by Husband/Relatives,119,Crimes Against Women,False,North,2809934,4.234974914001539
+2018,Palakkad,Cruelty by Husband/Relatives,118,Crimes Against Women,False,North,2809934,4.199386889514131
+2019,Palakkad,Cruelty by Husband/Relatives,119,Crimes Against Women,False,North,2809934,4.234974914001539
+2020,Palakkad,Cruelty by Husband/Relatives,140,Crimes Against Women,False,North,2809934,4.9823234282371045
+2021,Palakkad,Cruelty by Husband/Relatives,156,Crimes Against Women,False,North,2809934,5.551731820035631
+2022,Palakkad,Cruelty by Husband/Relatives,124,Crimes Against Women,False,North,2809934,4.412915036438578
+2023,Palakkad,Cruelty by Husband/Relatives,125,Crimes Against Women,False,North,2809934,4.448503060925987
+2016,Palakkad,Cyber Crime,9,Economic & Cyber Crime,False,North,2809934,0.320292220386671
+2017,Palakkad,Cyber Crime,11,Economic & Cyber Crime,False,North,2809934,0.39146826936148676
+2018,Palakkad,Cyber Crime,14,Economic & Cyber Crime,False,North,2809934,0.49823234282371043
+2019,Palakkad,Cyber Crime,17,Economic & Cyber Crime,False,North,2809934,0.6049964162859341
+2020,Palakkad,Cyber Crime,24,Economic & Cyber Crime,False,North,2809934,0.8541125876977893
+2021,Palakkad,Cyber Crime,33,Economic & Cyber Crime,False,North,2809934,1.1744048080844602
+2022,Palakkad,Cyber Crime,41,Economic & Cyber Crime,False,North,2809934,1.4591090039837233
+2023,Palakkad,Cyber Crime,52,Economic & Cyber Crime,False,North,2809934,1.8505772733452102
+2016,Palakkad,Hurt,1352,Violent Crime,False,North,2809934,48.115009106975464
+2017,Palakkad,Hurt,947,Violent Crime,False,North,2809934,33.701859189575266
+2018,Palakkad,Hurt,1429,Violent Crime,False,North,2809934,50.855286992505874
+2019,Palakkad,Hurt,1380,Violent Crime,False,North,2809934,49.11147379262289
+2020,Palakkad,Hurt,1097,Violent Crime,False,North,2809934,39.040062862686455
+2021,Palakkad,Hurt,940,Violent Crime,False,North,2809934,33.45274301816342
+2022,Palakkad,Hurt,1353,Violent Crime,False,North,2809934,48.150597131462874
+2023,Palakkad,Hurt,1333,Violent Crime,False,North,2809934,47.438836641714715
+2016,Palakkad,Kidnapping & Abduction,22,Violent Crime,False,North,2809934,0.7829365387229735
+2017,Palakkad,Kidnapping & Abduction,25,Violent Crime,False,North,2809934,0.8897006121851972
+2018,Palakkad,Kidnapping & Abduction,27,Violent Crime,False,North,2809934,0.960876661160013
+2019,Palakkad,Kidnapping & Abduction,27,Violent Crime,False,North,2809934,0.960876661160013
+2020,Palakkad,Kidnapping & Abduction,19,Violent Crime,False,North,2809934,0.6761724652607499
+2021,Palakkad,Kidnapping & Abduction,27,Violent Crime,False,North,2809934,0.960876661160013
+2022,Palakkad,Kidnapping & Abduction,27,Violent Crime,False,North,2809934,0.960876661160013
+2023,Palakkad,Kidnapping & Abduction,31,Violent Crime,False,North,2809934,1.1032287591096446
+2016,Palakkad,Molestation,119,Crimes Against Women,False,North,2809934,4.234974914001539
+2017,Palakkad,Molestation,117,Crimes Against Women,False,North,2809934,4.163798865026723
+2018,Palakkad,Molestation,134,Crimes Against Women,False,North,2809934,4.7687952813126575
+2019,Palakkad,Molestation,139,Crimes Against Women,False,North,2809934,4.946735403749696
+2020,Palakkad,Molestation,120,Crimes Against Women,False,North,2809934,4.270562938488947
+2021,Palakkad,Molestation,146,Crimes Against Women,False,North,2809934,5.195851575161552
+2022,Palakkad,Molestation,156,Crimes Against Women,False,North,2809934,5.551731820035631
+2023,Palakkad,Molestation,138,Crimes Against Women,False,North,2809934,4.911147379262289
+2016,Palakkad,Murder,20,Violent Crime,False,North,2809934,0.7117604897481578
+2017,Palakkad,Murder,20,Violent Crime,False,North,2809934,0.7117604897481578
+2018,Palakkad,Murder,19,Violent Crime,False,North,2809934,0.6761724652607499
+2019,Palakkad,Murder,18,Violent Crime,False,North,2809934,0.640584440773342
+2020,Palakkad,Murder,17,Violent Crime,False,North,2809934,0.6049964162859341
+2021,Palakkad,Murder,19,Violent Crime,False,North,2809934,0.6761724652607499
+2022,Palakkad,Murder,15,Violent Crime,False,North,2809934,0.5338203673111184
+2023,Palakkad,Murder,17,Violent Crime,False,North,2809934,0.6049964162859341
+2016,Palakkad,NDPS Act,235,Special & Local Laws,False,North,2809934,8.363185754540854
+2017,Palakkad,NDPS Act,242,Special & Local Laws,False,North,2809934,8.612301925952709
+2018,Palakkad,NDPS Act,280,Special & Local Laws,False,North,2809934,9.964646856474209
+2019,Palakkad,NDPS Act,374,Special & Local Laws,False,North,2809934,13.309921158290551
+2020,Palakkad,NDPS Act,392,Special & Local Laws,False,North,2809934,13.950505599063893
+2021,Palakkad,NDPS Act,541,Special & Local Laws,False,North,2809934,19.25312124768767
+2022,Palakkad,NDPS Act,601,Special & Local Laws,False,North,2809934,21.38840271693214
+2023,Palakkad,NDPS Act,685,Special & Local Laws,False,North,2809934,24.377796773874405
+2016,Palakkad,Rape,59,Crimes Against Women,False,North,2809934,2.0996934447570657
+2017,Palakkad,Rape,60,Crimes Against Women,False,North,2809934,2.1352814692444735
+2018,Palakkad,Rape,56,Crimes Against Women,False,North,2809934,1.9929293712948417
+2019,Palakkad,Rape,55,Crimes Against Women,False,North,2809934,1.957341346807434
+2020,Palakkad,Rape,56,Crimes Against Women,False,North,2809934,1.9929293712948417
+2021,Palakkad,Rape,66,Crimes Against Women,False,North,2809934,2.3488096161689205
+2022,Palakkad,Rape,64,Crimes Against Women,False,North,2809934,2.277633567194105
+2023,Palakkad,Rape,76,Crimes Against Women,False,North,2809934,2.7046898610429997
+2016,Palakkad,Riots,98,Violent Crime,False,North,2809934,3.4876263997659733
+2017,Palakkad,Riots,75,Violent Crime,False,North,2809934,2.669101836555592
+2018,Palakkad,Riots,83,Violent Crime,False,North,2809934,2.953806032454855
+2019,Palakkad,Riots,79,Violent Crime,False,North,2809934,2.811453934505223
+2020,Palakkad,Riots,40,Violent Crime,False,North,2809934,1.4235209794963155
+2021,Palakkad,Riots,65,Violent Crime,False,North,2809934,2.313221591681513
+2022,Palakkad,Riots,62,Violent Crime,False,North,2809934,2.206457518219289
+2023,Palakkad,Riots,56,Violent Crime,False,North,2809934,1.9929293712948417
+2016,Palakkad,Robbery,26,Property Crime,False,North,2809934,0.9252886366726051
+2017,Palakkad,Robbery,27,Property Crime,False,North,2809934,0.960876661160013
+2018,Palakkad,Robbery,25,Property Crime,False,North,2809934,0.8897006121851972
+2019,Palakkad,Robbery,25,Property Crime,False,North,2809934,0.8897006121851972
+2020,Palakkad,Robbery,14,Property Crime,False,North,2809934,0.49823234282371043
+2021,Palakkad,Robbery,21,Property Crime,False,North,2809934,0.7473485142355657
+2022,Palakkad,Robbery,23,Property Crime,False,North,2809934,0.8185245632103815
+2023,Palakkad,Robbery,19,Property Crime,False,North,2809934,0.6761724652607499
+2016,Palakkad,Theft,411,Property Crime,False,North,2809934,14.626678064324643
+2017,Palakkad,Theft,371,Property Crime,False,North,2809934,13.203157084828327
+2018,Palakkad,Theft,353,Property Crime,False,North,2809934,12.562572644054987
+2019,Palakkad,Theft,411,Property Crime,False,North,2809934,14.626678064324643
+2020,Palakkad,Theft,238,Property Crime,False,North,2809934,8.469949828003077
+2021,Palakkad,Theft,373,Property Crime,False,North,2809934,13.274333133803141
+2022,Palakkad,Theft,366,Property Crime,False,North,2809934,13.025216962391287
+2023,Palakkad,Theft,355,Property Crime,False,North,2809934,12.6337486930298
+2016,Pathanamthitta,Abkari Act,410,Special & Local Laws,False,South,1197412,34.240512037627816
+2017,Pathanamthitta,Abkari Act,376,Special & Local Laws,False,South,1197412,31.401054941824537
+2018,Pathanamthitta,Abkari Act,334,Special & Local Laws,False,South,1197412,27.89349029406754
+2019,Pathanamthitta,Abkari Act,374,Special & Local Laws,False,South,1197412,31.23402805383611
+2020,Pathanamthitta,Abkari Act,348,Special & Local Laws,False,South,1197412,29.062678509986537
+2021,Pathanamthitta,Abkari Act,327,Special & Local Laws,False,South,1197412,27.308896186108043
+2022,Pathanamthitta,Abkari Act,313,Special & Local Laws,False,South,1197412,26.13970797018904
+2023,Pathanamthitta,Abkari Act,338,Special & Local Laws,False,South,1197412,28.2275440700444
+2016,Pathanamthitta,Attempt to Murder,27,Violent Crime,False,South,1197412,2.254862987843783
+2017,Pathanamthitta,Attempt to Murder,29,Violent Crime,False,South,1197412,2.4218898758322114
+2018,Pathanamthitta,Attempt to Murder,25,Violent Crime,False,South,1197412,2.087836099855355
+2019,Pathanamthitta,Attempt to Murder,27,Violent Crime,False,South,1197412,2.254862987843783
+2020,Pathanamthitta,Attempt to Murder,23,Violent Crime,False,South,1197412,1.9208092118669262
+2021,Pathanamthitta,Attempt to Murder,30,Violent Crime,False,South,1197412,2.5054033198264256
+2022,Pathanamthitta,Attempt to Murder,25,Violent Crime,False,South,1197412,2.087836099855355
+2023,Pathanamthitta,Attempt to Murder,29,Violent Crime,False,South,1197412,2.4218898758322114
+2016,Pathanamthitta,Burglary,125,Property Crime,False,South,1197412,10.439180499276775
+2017,Pathanamthitta,Burglary,111,Property Crime,False,South,1197412,9.269992283357775
+2018,Pathanamthitta,Burglary,108,Property Crime,False,South,1197412,9.019451951375132
+2019,Pathanamthitta,Burglary,112,Property Crime,False,South,1197412,9.353505727351989
+2020,Pathanamthitta,Burglary,76,Property Crime,False,South,1197412,6.347021743560278
+2021,Pathanamthitta,Burglary,97,Property Crime,False,South,1197412,8.100804067438776
+2022,Pathanamthitta,Burglary,104,Property Crime,False,South,1197412,8.685398175398277
+2023,Pathanamthitta,Burglary,83,Property Crime,False,South,1197412,6.931615851519778
+2016,Pathanamthitta,Cheating,123,Economic & Cyber Crime,False,South,1197412,10.272153611288346
+2017,Pathanamthitta,Cheating,142,Economic & Cyber Crime,False,South,1197412,11.858909047178415
+2018,Pathanamthitta,Cheating,163,Economic & Cyber Crime,False,South,1197412,13.612691371056913
+2019,Pathanamthitta,Cheating,165,Economic & Cyber Crime,False,South,1197412,13.77971825904534
+2020,Pathanamthitta,Cheating,151,Economic & Cyber Crime,False,South,1197412,12.610530043126342
+2021,Pathanamthitta,Cheating,186,Economic & Cyber Crime,False,South,1197412,15.533500582923839
+2022,Pathanamthitta,Cheating,231,Economic & Cyber Crime,False,South,1197412,19.291605562663477
+2023,Pathanamthitta,Cheating,244,Economic & Cyber Crime,False,South,1197412,20.37728033458826
+2016,Pathanamthitta,Cruelty by Husband/Relatives,76,Crimes Against Women,False,South,1197412,6.347021743560278
+2017,Pathanamthitta,Cruelty by Husband/Relatives,61,Crimes Against Women,False,South,1197412,5.094320083647065
+2018,Pathanamthitta,Cruelty by Husband/Relatives,72,Crimes Against Women,False,South,1197412,6.012967967583422
+2019,Pathanamthitta,Cruelty by Husband/Relatives,77,Crimes Against Women,False,South,1197412,6.430535187554493
+2020,Pathanamthitta,Cruelty by Husband/Relatives,65,Crimes Against Women,False,South,1197412,5.428373859623923
+2021,Pathanamthitta,Cruelty by Husband/Relatives,70,Crimes Against Women,False,South,1197412,5.8459410795949935
+2022,Pathanamthitta,Cruelty by Husband/Relatives,69,Crimes Against Women,False,South,1197412,5.762427635600779
+2023,Pathanamthitta,Cruelty by Husband/Relatives,58,Crimes Against Women,False,South,1197412,4.843779751664423
+2016,Pathanamthitta,Cyber Crime,6,Economic & Cyber Crime,False,South,1197412,0.5010806639652851
+2017,Pathanamthitta,Cyber Crime,7,Economic & Cyber Crime,False,South,1197412,0.5845941079594993
+2018,Pathanamthitta,Cyber Crime,8,Economic & Cyber Crime,False,South,1197412,0.6681075519537135
+2019,Pathanamthitta,Cyber Crime,11,Economic & Cyber Crime,False,South,1197412,0.9186478839363561
+2020,Pathanamthitta,Cyber Crime,18,Economic & Cyber Crime,False,South,1197412,1.5032419918958555
+2021,Pathanamthitta,Cyber Crime,21,Economic & Cyber Crime,False,South,1197412,1.7537823238784982
+2022,Pathanamthitta,Cyber Crime,25,Economic & Cyber Crime,False,South,1197412,2.087836099855355
+2023,Pathanamthitta,Cyber Crime,32,Economic & Cyber Crime,False,South,1197412,2.672430207814854
+2016,Pathanamthitta,Hurt,918,Violent Crime,False,South,1197412,76.66534158668863
+2017,Pathanamthitta,Hurt,860,Violent Crime,False,South,1197412,71.8215618350242
+2018,Pathanamthitta,Hurt,906,Violent Crime,False,South,1197412,75.66318025875805
+2019,Pathanamthitta,Hurt,825,Violent Crime,False,South,1197412,68.89859129522671
+2020,Pathanamthitta,Hurt,787,Violent Crime,False,South,1197412,65.72508042344657
+2021,Pathanamthitta,Hurt,912,Violent Crime,False,South,1197412,76.16426092272334
+2022,Pathanamthitta,Hurt,861,Violent Crime,False,South,1197412,71.90507527901842
+2023,Pathanamthitta,Hurt,925,Violent Crime,False,South,1197412,77.24993569464812
+2016,Pathanamthitta,Kidnapping & Abduction,21,Violent Crime,False,South,1197412,1.7537823238784982
+2017,Pathanamthitta,Kidnapping & Abduction,21,Violent Crime,False,South,1197412,1.7537823238784982
+2018,Pathanamthitta,Kidnapping & Abduction,20,Violent Crime,False,South,1197412,1.6702688798842837
+2019,Pathanamthitta,Kidnapping & Abduction,22,Violent Crime,False,South,1197412,1.8372957678727122
+2020,Pathanamthitta,Kidnapping & Abduction,16,Violent Crime,False,South,1197412,1.336215103907427
+2021,Pathanamthitta,Kidnapping & Abduction,26,Violent Crime,False,South,1197412,2.171349543849569
+2022,Pathanamthitta,Kidnapping & Abduction,26,Violent Crime,False,South,1197412,2.171349543849569
+2023,Pathanamthitta,Kidnapping & Abduction,25,Violent Crime,False,South,1197412,2.087836099855355
+2016,Pathanamthitta,Molestation,67,Crimes Against Women,False,South,1197412,5.59540074761235
+2017,Pathanamthitta,Molestation,74,Crimes Against Women,False,South,1197412,6.1799948555718505
+2018,Pathanamthitta,Molestation,81,Crimes Against Women,False,South,1197412,6.764588963531349
+2019,Pathanamthitta,Molestation,88,Crimes Against Women,False,South,1197412,7.349183071490849
+2020,Pathanamthitta,Molestation,81,Crimes Against Women,False,South,1197412,6.764588963531349
+2021,Pathanamthitta,Molestation,87,Crimes Against Women,False,South,1197412,7.265669627496634
+2022,Pathanamthitta,Molestation,96,Crimes Against Women,False,South,1197412,8.017290623444561
+2023,Pathanamthitta,Molestation,97,Crimes Against Women,False,South,1197412,8.100804067438776
+2016,Pathanamthitta,Murder,10,Violent Crime,False,South,1197412,0.8351344399421419
+2017,Pathanamthitta,Murder,9,Violent Crime,False,South,1197412,0.7516209959479278
+2018,Pathanamthitta,Murder,11,Violent Crime,False,South,1197412,0.9186478839363561
+2019,Pathanamthitta,Murder,12,Violent Crime,False,South,1197412,1.0021613279305701
+2020,Pathanamthitta,Murder,11,Violent Crime,False,South,1197412,0.9186478839363561
+2021,Pathanamthitta,Murder,10,Violent Crime,False,South,1197412,0.8351344399421419
+2022,Pathanamthitta,Murder,10,Violent Crime,False,South,1197412,0.8351344399421419
+2023,Pathanamthitta,Murder,11,Violent Crime,False,South,1197412,0.9186478839363561
+2016,Pathanamthitta,NDPS Act,118,Special & Local Laws,False,South,1197412,9.854586391317275
+2017,Pathanamthitta,NDPS Act,161,Special & Local Laws,False,South,1197412,13.445664483068484
+2018,Pathanamthitta,NDPS Act,185,Special & Local Laws,False,South,1197412,15.449987138929625
+2019,Pathanamthitta,NDPS Act,198,Special & Local Laws,False,South,1197412,16.53566191085441
+2020,Pathanamthitta,NDPS Act,189,Special & Local Laws,False,South,1197412,15.784040914906482
+2021,Pathanamthitta,NDPS Act,285,Special & Local Laws,False,South,1197412,23.801331538351043
+2022,Pathanamthitta,NDPS Act,330,Special & Local Laws,False,South,1197412,27.55943651809068
+2023,Pathanamthitta,NDPS Act,373,Special & Local Laws,False,South,1197412,31.150514609841892
+2016,Pathanamthitta,Rape,48,Crimes Against Women,False,South,1197412,4.0086453117222804
+2017,Pathanamthitta,Rape,44,Crimes Against Women,False,South,1197412,3.6745915357454244
+2018,Pathanamthitta,Rape,50,Crimes Against Women,False,South,1197412,4.17567219971071
+2019,Pathanamthitta,Rape,53,Crimes Against Women,False,South,1197412,4.426212531693352
+2020,Pathanamthitta,Rape,51,Crimes Against Women,False,South,1197412,4.259185643704924
+2021,Pathanamthitta,Rape,62,Crimes Against Women,False,South,1197412,5.17783352764128
+2022,Pathanamthitta,Rape,56,Crimes Against Women,False,South,1197412,4.676752863675994
+2023,Pathanamthitta,Rape,66,Crimes Against Women,False,South,1197412,5.511887303618137
+2016,Pathanamthitta,Riots,48,Violent Crime,False,South,1197412,4.0086453117222804
+2017,Pathanamthitta,Riots,51,Violent Crime,False,South,1197412,4.259185643704924
+2018,Pathanamthitta,Riots,43,Violent Crime,False,South,1197412,3.5910780917512097
+2019,Pathanamthitta,Riots,46,Violent Crime,False,South,1197412,3.8416184237338524
+2020,Pathanamthitta,Riots,23,Violent Crime,False,South,1197412,1.9208092118669262
+2021,Pathanamthitta,Riots,39,Violent Crime,False,South,1197412,3.2570243157743537
+2022,Pathanamthitta,Riots,43,Violent Crime,False,South,1197412,3.5910780917512097
+2023,Pathanamthitta,Riots,40,Violent Crime,False,South,1197412,3.3405377597685675
+2016,Pathanamthitta,Robbery,28,Property Crime,False,South,1197412,2.338376431837997
+2017,Pathanamthitta,Robbery,26,Property Crime,False,South,1197412,2.171349543849569
+2018,Pathanamthitta,Robbery,29,Property Crime,False,South,1197412,2.4218898758322114
+2019,Pathanamthitta,Robbery,25,Property Crime,False,South,1197412,2.087836099855355
+2020,Pathanamthitta,Robbery,17,Property Crime,False,South,1197412,1.4197285479016413
+2021,Pathanamthitta,Robbery,24,Property Crime,False,South,1197412,2.0043226558611402
+2022,Pathanamthitta,Robbery,23,Property Crime,False,South,1197412,1.9208092118669262
+2023,Pathanamthitta,Robbery,22,Property Crime,False,South,1197412,1.8372957678727122
+2016,Pathanamthitta,Theft,212,Property Crime,False,South,1197412,17.704850126773408
+2017,Pathanamthitta,Theft,227,Property Crime,False,South,1197412,18.957551786686622
+2018,Pathanamthitta,Theft,208,Property Crime,False,South,1197412,17.370796350796553
+2019,Pathanamthitta,Theft,222,Property Crime,False,South,1197412,18.53998456671555
+2020,Pathanamthitta,Theft,143,Property Crime,False,South,1197412,11.942422491172628
+2021,Pathanamthitta,Theft,209,Property Crime,False,South,1197412,17.454309794790767
+2022,Pathanamthitta,Theft,185,Property Crime,False,South,1197412,15.449987138929625
+2023,Pathanamthitta,Theft,189,Property Crime,False,South,1197412,15.784040914906482
+2016,Thiruvananthapuram,Abkari Act,1046,Special & Local Laws,False,South,3301427,31.683269083338814
+2017,Thiruvananthapuram,Abkari Act,1006,Special & Local Laws,False,South,3301427,30.47167179525702
+2018,Thiruvananthapuram,Abkari Act,987,Special & Local Laws,False,South,3301427,29.89616308341817
+2019,Thiruvananthapuram,Abkari Act,1000,Special & Local Laws,False,South,3301427,30.28993220204475
+2020,Thiruvananthapuram,Abkari Act,944,Special & Local Laws,False,South,3301427,28.593695998730247
+2021,Thiruvananthapuram,Abkari Act,959,Special & Local Laws,False,South,3301427,29.048044981760917
+2022,Thiruvananthapuram,Abkari Act,920,Special & Local Laws,False,South,3301427,27.86673762588117
+2023,Thiruvananthapuram,Abkari Act,764,Special & Local Laws,False,South,3301427,23.14150820236219
+2016,Thiruvananthapuram,Attempt to Murder,69,Violent Crime,False,South,3301427,2.090005321941088
+2017,Thiruvananthapuram,Attempt to Murder,74,Violent Crime,False,South,3301427,2.2414549829513115
+2018,Thiruvananthapuram,Attempt to Murder,75,Violent Crime,False,South,3301427,2.2717449151533566
+2019,Thiruvananthapuram,Attempt to Murder,79,Violent Crime,False,South,3301427,2.3929046439615353
+2020,Thiruvananthapuram,Attempt to Murder,71,Violent Crime,False,South,3301427,2.150585186345177
+2021,Thiruvananthapuram,Attempt to Murder,83,Violent Crime,False,South,3301427,2.5140643727697145
+2022,Thiruvananthapuram,Attempt to Murder,83,Violent Crime,False,South,3301427,2.5140643727697145
+2023,Thiruvananthapuram,Attempt to Murder,85,Violent Crime,False,South,3301427,2.574644237173804
+2016,Thiruvananthapuram,Burglary,429,Property Crime,False,South,3301427,12.994380914677198
+2017,Thiruvananthapuram,Burglary,437,Property Crime,False,South,3301427,13.236700372293557
+2018,Thiruvananthapuram,Burglary,453,Property Crime,False,South,3301427,13.721339287526272
+2019,Thiruvananthapuram,Burglary,401,Property Crime,False,South,3301427,12.146262813019947
+2020,Thiruvananthapuram,Burglary,278,Property Crime,False,South,3301427,8.420601152168441
+2021,Thiruvananthapuram,Burglary,375,Property Crime,False,South,3301427,11.358724575766782
+2022,Thiruvananthapuram,Burglary,371,Property Crime,False,South,3301427,11.237564846958604
+2023,Thiruvananthapuram,Burglary,358,Property Crime,False,South,3301427,10.843795728332022
+2016,Thiruvananthapuram,Cheating,429,Economic & Cyber Crime,False,South,3301427,12.994380914677198
+2017,Thiruvananthapuram,Cheating,347,Economic & Cyber Crime,False,South,3301427,10.51060647410953
+2018,Thiruvananthapuram,Cheating,407,Economic & Cyber Crime,False,South,3301427,12.328002406232216
+2019,Thiruvananthapuram,Cheating,461,Economic & Cyber Crime,False,South,3301427,13.963658745142633
+2020,Thiruvananthapuram,Cheating,485,Economic & Cyber Crime,False,South,3301427,14.690617117991703
+2021,Thiruvananthapuram,Cheating,502,Economic & Cyber Crime,False,South,3301427,15.205545965426467
+2022,Thiruvananthapuram,Cheating,533,Economic & Cyber Crime,False,South,3301427,16.14453386368985
+2023,Thiruvananthapuram,Cheating,584,Economic & Cyber Crime,False,South,3301427,17.689320405994135
+2016,Thiruvananthapuram,Cruelty by Husband/Relatives,298,Crimes Against Women,False,South,3301427,9.026399796209336
+2017,Thiruvananthapuram,Cruelty by Husband/Relatives,292,Crimes Against Women,False,South,3301427,8.844660202997067
+2018,Thiruvananthapuram,Cruelty by Husband/Relatives,285,Crimes Against Women,False,South,3301427,8.632630677582755
+2019,Thiruvananthapuram,Cruelty by Husband/Relatives,300,Crimes Against Women,False,South,3301427,9.086979660613427
+2020,Thiruvananthapuram,Cruelty by Husband/Relatives,320,Crimes Against Women,False,South,3301427,9.69277830465432
+2021,Thiruvananthapuram,Cruelty by Husband/Relatives,278,Crimes Against Women,False,South,3301427,8.420601152168441
+2022,Thiruvananthapuram,Cruelty by Husband/Relatives,267,Crimes Against Women,False,South,3301427,8.087411897945948
+2023,Thiruvananthapuram,Cruelty by Husband/Relatives,292,Crimes Against Women,False,South,3301427,8.844660202997067
+2016,Thiruvananthapuram,Cyber Crime,27,Economic & Cyber Crime,False,South,3301427,0.8178281694552082
+2017,Thiruvananthapuram,Cyber Crime,41,Economic & Cyber Crime,False,South,3301427,1.241887220283835
+2018,Thiruvananthapuram,Cyber Crime,45,Economic & Cyber Crime,False,South,3301427,1.3630469490920138
+2019,Thiruvananthapuram,Cyber Crime,63,Economic & Cyber Crime,False,South,3301427,1.9082657287288194
+2020,Thiruvananthapuram,Cyber Crime,99,Economic & Cyber Crime,False,South,3301427,2.9987032880024307
+2021,Thiruvananthapuram,Cyber Crime,109,Economic & Cyber Crime,False,South,3301427,3.301602610022878
+2022,Thiruvananthapuram,Cyber Crime,134,Economic & Cyber Crime,False,South,3301427,4.058850915073997
+2023,Thiruvananthapuram,Cyber Crime,158,Economic & Cyber Crime,False,South,3301427,4.785809287923071
+2016,Thiruvananthapuram,Hurt,2157,Violent Crime,False,South,3301427,65.33538375981053
+2017,Thiruvananthapuram,Hurt,2175,Violent Crime,False,South,3301427,65.88060253944734
+2018,Thiruvananthapuram,Hurt,2202,Violent Crime,False,South,3301427,66.69843070890255
+2019,Thiruvananthapuram,Hurt,2298,Violent Crime,False,South,3301427,69.60626420029884
+2020,Thiruvananthapuram,Hurt,1747,Violent Crime,False,South,3301427,52.91651155697218
+2021,Thiruvananthapuram,Hurt,2294,Violent Crime,False,South,3301427,69.48510447149066
+2022,Thiruvananthapuram,Hurt,2336,Violent Crime,False,South,3301427,70.75728162397654
+2023,Thiruvananthapuram,Hurt,1829,Violent Crime,False,South,3301427,55.400285997539854
+2016,Thiruvananthapuram,Kidnapping & Abduction,56,Violent Crime,False,South,3301427,1.6962362033145062
+2017,Thiruvananthapuram,Kidnapping & Abduction,59,Violent Crime,False,South,3301427,1.7871059999206405
+2018,Thiruvananthapuram,Kidnapping & Abduction,61,Violent Crime,False,South,3301427,1.8476858643247298
+2019,Thiruvananthapuram,Kidnapping & Abduction,67,Violent Crime,False,South,3301427,2.0294254575369983
+2020,Thiruvananthapuram,Kidnapping & Abduction,51,Violent Crime,False,South,3301427,1.5447865423042821
+2021,Thiruvananthapuram,Kidnapping & Abduction,60,Violent Crime,False,South,3301427,1.8173959321226851
+2022,Thiruvananthapuram,Kidnapping & Abduction,70,Violent Crime,False,South,3301427,2.120295254143133
+2023,Thiruvananthapuram,Kidnapping & Abduction,67,Violent Crime,False,South,3301427,2.0294254575369983
+2016,Thiruvananthapuram,Molestation,256,Crimes Against Women,False,South,3301427,7.754222643723456
+2017,Thiruvananthapuram,Molestation,270,Crimes Against Women,False,South,3301427,8.178281694552084
+2018,Thiruvananthapuram,Molestation,310,Crimes Against Women,False,South,3301427,9.389878982633872
+2019,Thiruvananthapuram,Molestation,265,Crimes Against Women,False,South,3301427,8.02683203354186
+2020,Thiruvananthapuram,Molestation,266,Crimes Against Women,False,South,3301427,8.057121965743905
+2021,Thiruvananthapuram,Molestation,344,Crimes Against Women,False,South,3301427,10.419736677503394
+2022,Thiruvananthapuram,Molestation,324,Crimes Against Women,False,South,3301427,9.8139380334625
+2023,Thiruvananthapuram,Molestation,337,Crimes Against Women,False,South,3301427,10.207707152089082
+2016,Thiruvananthapuram,Murder,38,Violent Crime,False,South,3301427,1.1510174236777007
+2017,Thiruvananthapuram,Murder,38,Violent Crime,True,South,3301427,1.1510174236777007
+2018,Thiruvananthapuram,Murder,37,Violent Crime,False,South,3301427,1.1207274914756558
+2019,Thiruvananthapuram,Murder,36,Violent Crime,False,South,3301427,1.090437559273611
+2020,Thiruvananthapuram,Murder,32,Violent Crime,False,South,3301427,0.969277830465432
+2021,Thiruvananthapuram,Murder,39,Violent Crime,False,South,3301427,1.1813073558797453
+2022,Thiruvananthapuram,Murder,40,Violent Crime,False,South,3301427,1.21159728808179
+2023,Thiruvananthapuram,Murder,41,Violent Crime,False,South,3301427,1.241887220283835
+2016,Thiruvananthapuram,NDPS Act,444,Special & Local Laws,False,South,3301427,13.448729897707869
+2017,Thiruvananthapuram,NDPS Act,584,Special & Local Laws,False,South,3301427,17.689320405994135
+2018,Thiruvananthapuram,NDPS Act,547,Special & Local Laws,False,South,3301427,16.56859291451848
+2019,Thiruvananthapuram,NDPS Act,785,Special & Local Laws,False,South,3301427,23.77759677860513
+2020,Thiruvananthapuram,NDPS Act,743,Special & Local Laws,False,South,3301427,22.50541962611925
+2021,Thiruvananthapuram,NDPS Act,955,Special & Local Laws,False,South,3301427,28.926885252952736
+2022,Thiruvananthapuram,NDPS Act,1087,Special & Local Laws,False,South,3301427,32.92515630362264
+2023,Thiruvananthapuram,NDPS Act,1356,Special & Local Laws,False,South,3301427,41.07314806597268
+2016,Thiruvananthapuram,Rape,137,Crimes Against Women,False,South,3301427,4.149720711680131
+2017,Thiruvananthapuram,Rape,135,Crimes Against Women,False,South,3301427,4.089140847276042
+2018,Thiruvananthapuram,Rape,151,Crimes Against Women,False,South,3301427,4.5737797625087575
+2019,Thiruvananthapuram,Rape,136,Crimes Against Women,False,South,3301427,4.119430779478087
+2020,Thiruvananthapuram,Rape,128,Crimes Against Women,False,South,3301427,3.877111321861728
+2021,Thiruvananthapuram,Rape,179,Crimes Against Women,False,South,3301427,5.421897864166011
+2022,Thiruvananthapuram,Rape,164,Crimes Against Women,False,South,3301427,4.96754888113534
+2023,Thiruvananthapuram,Rape,171,Crimes Against Women,False,South,3301427,5.179578406549652
+2016,Thiruvananthapuram,Riots,207,Violent Crime,False,South,3301427,6.270015965823263
+2017,Thiruvananthapuram,Riots,202,Violent Crime,False,South,3301427,6.11856630481304
+2018,Thiruvananthapuram,Riots,188,Violent Crime,False,South,3301427,5.694507253984413
+2019,Thiruvananthapuram,Riots,172,Violent Crime,False,South,3301427,5.209868338751697
+2020,Thiruvananthapuram,Riots,100,Violent Crime,False,South,3301427,3.028993220204475
+2021,Thiruvananthapuram,Riots,167,Violent Crime,False,South,3301427,5.058418677741474
+2022,Thiruvananthapuram,Riots,144,Violent Crime,False,South,3301427,4.361750237094444
+2023,Thiruvananthapuram,Riots,135,Violent Crime,False,South,3301427,4.089140847276042
+2016,Thiruvananthapuram,Robbery,73,Property Crime,False,South,3301427,2.211165050749267
+2017,Thiruvananthapuram,Robbery,77,Property Crime,False,South,3301427,2.332324779557446
+2018,Thiruvananthapuram,Robbery,69,Property Crime,False,South,3301427,2.090005321941088
+2019,Thiruvananthapuram,Robbery,71,Property Crime,False,South,3301427,2.150585186345177
+2020,Thiruvananthapuram,Robbery,47,Property Crime,False,South,3301427,1.4236268134961032
+2021,Thiruvananthapuram,Robbery,69,Property Crime,False,South,3301427,2.090005321941088
+2022,Thiruvananthapuram,Robbery,56,Property Crime,False,South,3301427,1.6962362033145062
+2023,Thiruvananthapuram,Robbery,54,Property Crime,False,South,3301427,1.6356563389104164
+2016,Thiruvananthapuram,Theft,886,Property Crime,False,South,3301427,26.83687993101165
+2017,Thiruvananthapuram,Theft,839,Property Crime,False,South,3301427,25.41325311751555
+2018,Thiruvananthapuram,Theft,804,Property Crime,False,South,3301427,24.35310549044398
+2019,Thiruvananthapuram,Theft,845,Property Crime,False,South,3301427,25.594992710727816
+2020,Thiruvananthapuram,Theft,566,Property Crime,False,South,3301427,17.14410162635733
+2021,Thiruvananthapuram,Theft,856,Property Crime,False,South,3301427,25.92818196495031
+2022,Thiruvananthapuram,Theft,739,Property Crime,False,South,3301427,22.384259897311072
+2023,Thiruvananthapuram,Theft,832,Property Crime,False,South,3301427,25.201223592101236
+2016,Thrissur,Abkari Act,842,Special & Local Laws,False,Central,3121200,26.97680379341279
+2017,Thrissur,Abkari Act,947,Special & Local Laws,False,Central,3121200,30.34089452774574
+2018,Thrissur,Abkari Act,815,Special & Local Laws,False,Central,3121200,26.111751890298603
+2019,Thrissur,Abkari Act,752,Special & Local Laws,False,Central,3121200,24.093297449698834
+2020,Thrissur,Abkari Act,795,Special & Local Laws,False,Central,3121200,25.47097270280661
+2021,Thrissur,Abkari Act,800,Special & Local Laws,False,Central,3121200,25.63116749967961
+2022,Thrissur,Abkari Act,743,Special & Local Laws,False,Central,3121200,23.80494681532744
+2023,Thrissur,Abkari Act,678,Special & Local Laws,False,Central,3121200,21.72241445597847
+2016,Thrissur,Attempt to Murder,53,Violent Crime,False,Central,3121200,1.698064846853774
+2017,Thrissur,Attempt to Murder,54,Violent Crime,False,Central,3121200,1.7301038062283738
+2018,Thrissur,Attempt to Murder,61,Violent Crime,False,Central,3121200,1.9543765218505702
+2019,Thrissur,Attempt to Murder,56,Violent Crime,False,Central,3121200,1.7941817249775727
+2020,Thrissur,Attempt to Murder,54,Violent Crime,False,Central,3121200,1.7301038062283738
+2021,Thrissur,Attempt to Murder,59,Violent Crime,False,Central,3121200,1.890298603101371
+2022,Thrissur,Attempt to Murder,60,Violent Crime,False,Central,3121200,1.9223375624759709
+2023,Thrissur,Attempt to Murder,64,Violent Crime,False,Central,3121200,2.0504933999743686
+2016,Thrissur,Burglary,382,Property Crime,False,Central,3121200,12.238882481097015
+2017,Thrissur,Burglary,366,Property Crime,False,Central,3121200,11.72625913110342
+2018,Thrissur,Burglary,357,Property Crime,False,Central,3121200,11.437908496732026
+2019,Thrissur,Burglary,321,Property Crime,False,Central,3121200,10.284505959246443
+2020,Thrissur,Burglary,260,Property Crime,False,Central,3121200,8.330129437395874
+2021,Thrissur,Burglary,291,Property Crime,False,Central,3121200,9.323337178008458
+2022,Thrissur,Burglary,292,Property Crime,False,Central,3121200,9.355376137383058
+2023,Thrissur,Burglary,299,Property Crime,False,Central,3121200,9.579648853005255
+2016,Thrissur,Cheating,251,Economic & Cyber Crime,False,Central,3121200,8.041778803024478
+2017,Thrissur,Cheating,273,Economic & Cyber Crime,False,Central,3121200,8.746635909265667
+2018,Thrissur,Cheating,269,Economic & Cyber Crime,False,Central,3121200,8.61848007176727
+2019,Thrissur,Cheating,310,Economic & Cyber Crime,False,Central,3121200,9.932077406125849
+2020,Thrissur,Cheating,319,Economic & Cyber Crime,False,Central,3121200,10.220428040497245
+2021,Thrissur,Cheating,348,Economic & Cyber Crime,False,Central,3121200,11.14955786236063
+2022,Thrissur,Cheating,350,Economic & Cyber Crime,False,Central,3121200,11.21363578110983
+2023,Thrissur,Cheating,356,Economic & Cyber Crime,False,Central,3121200,11.405869537357427
+2016,Thrissur,Cruelty by Husband/Relatives,238,Crimes Against Women,False,Central,3121200,7.625272331154683
+2017,Thrissur,Cruelty by Husband/Relatives,270,Crimes Against Women,False,Central,3121200,8.650519031141869
+2018,Thrissur,Cruelty by Husband/Relatives,257,Crimes Against Women,False,Central,3121200,8.234012559272076
+2019,Thrissur,Cruelty by Husband/Relatives,207,Crimes Against Women,False,Central,3121200,6.6320645905420985
+2020,Thrissur,Cruelty by Husband/Relatives,258,Crimes Against Women,False,Central,3121200,8.266051518646675
+2021,Thrissur,Cruelty by Husband/Relatives,213,Crimes Against Women,False,Central,3121200,6.824298346789696
+2022,Thrissur,Cruelty by Husband/Relatives,238,Crimes Against Women,False,Central,3121200,7.625272331154683
+2023,Thrissur,Cruelty by Husband/Relatives,236,Crimes Against Women,False,Central,3121200,7.561194412405484
+2016,Thrissur,Cyber Crime,24,Economic & Cyber Crime,False,Central,3121200,0.7689350249903883
+2017,Thrissur,Cyber Crime,32,Economic & Cyber Crime,False,Central,3121200,1.0252466999871843
+2018,Thrissur,Cyber Crime,37,Economic & Cyber Crime,False,Central,3121200,1.1854414968601819
+2019,Thrissur,Cyber Crime,49,Economic & Cyber Crime,False,Central,3121200,1.5699090093553763
+2020,Thrissur,Cyber Crime,77,Economic & Cyber Crime,False,Central,3121200,2.466999871844162
+2021,Thrissur,Cyber Crime,83,Economic & Cyber Crime,False,Central,3121200,2.65923362809176
+2022,Thrissur,Cyber Crime,93,Economic & Cyber Crime,False,Central,3121200,2.9796232218377545
+2023,Thrissur,Cyber Crime,128,Economic & Cyber Crime,False,Central,3121200,4.100986799948737
+2016,Thrissur,Hurt,1833,Violent Crime,False,Central,3121200,58.7274125336409
+2017,Thrissur,Hurt,1576,Violent Crime,False,Central,3121200,50.49339997436883
+2018,Thrissur,Hurt,1761,Violent Crime,False,Central,3121200,56.42060745866974
+2019,Thrissur,Hurt,1651,Violent Crime,False,Central,3121200,52.896321927463795
+2020,Thrissur,Hurt,1413,Violent Crime,False,Central,3121200,45.27104959630911
+2021,Thrissur,Hurt,1649,Violent Crime,False,Central,3121200,52.832244008714596
+2022,Thrissur,Hurt,1597,Violent Crime,False,Central,3121200,51.166218121235424
+2023,Thrissur,Hurt,1801,Violent Crime,False,Central,3121200,57.70216583365372
+2016,Thrissur,Kidnapping & Abduction,42,Violent Crime,False,Central,3121200,1.3456362937331796
+2017,Thrissur,Kidnapping & Abduction,48,Violent Crime,False,Central,3121200,1.5378700499807767
+2018,Thrissur,Kidnapping & Abduction,43,Violent Crime,False,Central,3121200,1.3776752531077792
+2019,Thrissur,Kidnapping & Abduction,41,Violent Crime,False,Central,3121200,1.31359733435858
+2020,Thrissur,Kidnapping & Abduction,35,Violent Crime,False,Central,3121200,1.121363578110983
+2021,Thrissur,Kidnapping & Abduction,54,Violent Crime,False,Central,3121200,1.7301038062283738
+2022,Thrissur,Kidnapping & Abduction,49,Violent Crime,False,Central,3121200,1.5699090093553763
+2023,Thrissur,Kidnapping & Abduction,49,Violent Crime,False,Central,3121200,1.5699090093553763
+2016,Thrissur,Molestation,161,Crimes Against Women,False,Central,3121200,5.158272459310522
+2017,Thrissur,Molestation,174,Crimes Against Women,False,Central,3121200,5.574778931180315
+2018,Thrissur,Molestation,162,Crimes Against Women,False,Central,3121200,5.190311418685122
+2019,Thrissur,Molestation,201,Crimes Against Women,False,Central,3121200,6.4398308342945025
+2020,Thrissur,Molestation,156,Crimes Against Women,False,Central,3121200,4.998077662437524
+2021,Thrissur,Molestation,211,Crimes Against Women,False,Central,3121200,6.760220428040498
+2022,Thrissur,Molestation,219,Crimes Against Women,False,Central,3121200,7.016532103037293
+2023,Thrissur,Molestation,212,Crimes Against Women,False,Central,3121200,6.792259387415096
+2016,Thrissur,Murder,32,Violent Crime,False,Central,3121200,1.0252466999871843
+2017,Thrissur,Murder,27,Violent Crime,False,Central,3121200,0.8650519031141869
+2018,Thrissur,Murder,31,Violent Crime,False,Central,3121200,0.9932077406125849
+2019,Thrissur,Murder,32,Violent Crime,False,Central,3121200,1.0252466999871843
+2020,Thrissur,Murder,31,Violent Crime,False,Central,3121200,0.9932077406125849
+2021,Thrissur,Murder,31,Violent Crime,False,Central,3121200,0.9932077406125849
+2022,Thrissur,Murder,29,Violent Crime,False,Central,3121200,0.9291298218633859
+2023,Thrissur,Murder,32,Violent Crime,False,Central,3121200,1.0252466999871843
+2016,Thrissur,NDPS Act,375,Special & Local Laws,False,Central,3121200,12.014609765474818
+2017,Thrissur,NDPS Act,460,Special & Local Laws,False,Central,3121200,14.737921312315777
+2018,Thrissur,NDPS Act,511,Special & Local Laws,False,Central,3121200,16.371908240420353
+2019,Thrissur,NDPS Act,550,Special & Local Laws,False,Central,3121200,17.62142765602973
+2020,Thrissur,NDPS Act,567,Special & Local Laws,False,Central,3121200,18.166089965397923
+2021,Thrissur,NDPS Act,892,Special & Local Laws,False,Central,3121200,28.57875176214277
+2022,Thrissur,NDPS Act,966,Special & Local Laws,False,Central,3121200,30.949634755863134
+2023,Thrissur,NDPS Act,1151,Special & Local Laws,False,Central,3121200,36.876842240164045
+2016,Thrissur,Rape,105,Crimes Against Women,False,Central,3121200,3.3640907343329487
+2017,Thrissur,Rape,116,Crimes Against Women,False,Central,3121200,3.7165192874535435
+2018,Thrissur,Rape,130,Crimes Against Women,False,Central,3121200,4.165064718697937
+2019,Thrissur,Rape,141,Crimes Against Women,False,Central,3121200,4.517493271818531
+2020,Thrissur,Rape,121,Crimes Against Women,False,Central,3121200,3.876714084326541
+2021,Thrissur,Rape,139,Crimes Against Women,False,Central,3121200,4.453415353069333
+2022,Thrissur,Rape,148,Crimes Against Women,False,Central,3121200,4.741765987440727
+2023,Thrissur,Rape,149,Crimes Against Women,False,Central,3121200,4.773804946815328
+2016,Thrissur,Riots,205,Violent Crime,False,Central,3121200,6.5679866717929
+2017,Thrissur,Riots,206,Violent Crime,False,Central,3121200,6.6000256311675
+2018,Thrissur,Riots,182,Violent Crime,False,Central,3121200,5.831090606177111
+2019,Thrissur,Riots,168,Violent Crime,False,Central,3121200,5.3825451749327184
+2020,Thrissur,Riots,89,Violent Crime,False,Central,3121200,2.8514673843393568
+2021,Thrissur,Riots,154,Violent Crime,False,Central,3121200,4.933999743688324
+2022,Thrissur,Riots,137,Violent Crime,False,Central,3121200,4.389337434320134
+2023,Thrissur,Riots,141,Violent Crime,False,Central,3121200,4.517493271818531
+2016,Thrissur,Robbery,66,Property Crime,False,Central,3121200,2.114571318723568
+2017,Thrissur,Robbery,73,Property Crime,False,Central,3121200,2.3388440343457644
+2018,Thrissur,Robbery,64,Property Crime,False,Central,3121200,2.0504933999743686
+2019,Thrissur,Robbery,63,Property Crime,False,Central,3121200,2.0184544405997693
+2020,Thrissur,Robbery,47,Property Crime,False,Central,3121200,1.5058310906061771
+2021,Thrissur,Robbery,66,Property Crime,False,Central,3121200,2.114571318723568
+2022,Thrissur,Robbery,62,Property Crime,False,Central,3121200,1.9864154812251698
+2023,Thrissur,Robbery,58,Property Crime,False,Central,3121200,1.8582596437267718
+2016,Thrissur,Theft,928,Property Crime,False,Central,3121200,29.73215429962835
+2017,Thrissur,Theft,875,Property Crime,False,Central,3121200,28.034089452774573
+2018,Thrissur,Theft,869,Property Crime,False,Central,3121200,27.841855696526974
+2019,Thrissur,Theft,893,Property Crime,False,Central,3121200,28.610790721517365
+2020,Thrissur,Theft,544,Property Crime,False,Central,3121200,17.429193899782135
+2021,Thrissur,Theft,836,Property Crime,False,Central,3121200,26.78457003716519
+2022,Thrissur,Theft,836,Property Crime,False,Central,3121200,26.78457003716519
+2023,Thrissur,Theft,728,Property Crime,False,Central,3121200,23.324362424708443
+2016,Wayanad,Abkari Act,289,Special & Local Laws,False,North,817420,35.35514178757555
+2017,Wayanad,Abkari Act,308,Special & Local Laws,False,North,817420,37.67952827187982
+2018,Wayanad,Abkari Act,281,Special & Local Laws,False,North,817420,34.37645274155269
+2019,Wayanad,Abkari Act,298,Special & Local Laws,False,North,817420,36.456166964351254
+2020,Wayanad,Abkari Act,353,Special & Local Laws,False,North,817420,43.18465415575836
+2021,Wayanad,Abkari Act,280,Special & Local Laws,False,North,817420,34.254116610799834
+2022,Wayanad,Abkari Act,272,Special & Local Laws,False,North,817420,33.275427564776976
+2023,Wayanad,Abkari Act,266,Special & Local Laws,False,North,817420,32.541410780259845
+2016,Wayanad,Attempt to Murder,15,Violent Crime,False,North,817420,1.8350419612928481
+2017,Wayanad,Attempt to Murder,14,Violent Crime,False,North,817420,1.7127058305399916
+2018,Wayanad,Attempt to Murder,15,Violent Crime,False,North,817420,1.8350419612928481
+2019,Wayanad,Attempt to Murder,13,Violent Crime,False,North,817420,1.5903696997871353
+2020,Wayanad,Attempt to Murder,13,Violent Crime,False,North,817420,1.5903696997871353
+2021,Wayanad,Attempt to Murder,14,Violent Crime,False,North,817420,1.7127058305399916
+2022,Wayanad,Attempt to Murder,17,Violent Crime,False,North,817420,2.079714222798561
+2023,Wayanad,Attempt to Murder,17,Violent Crime,False,North,817420,2.079714222798561
+2016,Wayanad,Burglary,101,Property Crime,False,North,817420,12.355949206038511
+2017,Wayanad,Burglary,110,Property Crime,False,North,817420,13.45697438281422
+2018,Wayanad,Burglary,84,Property Crime,False,North,817420,10.27623498323995
+2019,Wayanad,Burglary,89,Property Crime,False,North,817420,10.887915637004234
+2020,Wayanad,Burglary,69,Property Crime,False,North,817420,8.441193021947102
+2021,Wayanad,Burglary,78,Property Crime,False,North,817420,9.54221819872281
+2022,Wayanad,Burglary,71,Property Crime,False,North,817420,8.685865283452815
+2023,Wayanad,Burglary,81,Property Crime,False,North,817420,9.90922659098138
+2016,Wayanad,Cheating,84,Economic & Cyber Crime,False,North,817420,10.27623498323995
+2017,Wayanad,Cheating,84,Economic & Cyber Crime,False,North,817420,10.27623498323995
+2018,Wayanad,Cheating,89,Economic & Cyber Crime,False,North,817420,10.887915637004234
+2019,Wayanad,Cheating,85,Economic & Cyber Crime,False,North,817420,10.398571113992807
+2020,Wayanad,Cheating,86,Economic & Cyber Crime,False,North,817420,10.520907244745663
+2021,Wayanad,Cheating,98,Economic & Cyber Crime,False,North,817420,11.98894081377994
+2022,Wayanad,Cheating,97,Economic & Cyber Crime,False,North,817420,11.866604683027086
+2023,Wayanad,Cheating,110,Economic & Cyber Crime,False,North,817420,13.45697438281422
+2016,Wayanad,Cruelty by Husband/Relatives,69,Crimes Against Women,False,North,817420,8.441193021947102
+2017,Wayanad,Cruelty by Husband/Relatives,62,Crimes Against Women,False,North,817420,7.584840106677106
+2018,Wayanad,Cruelty by Husband/Relatives,60,Crimes Against Women,False,North,817420,7.3401678451713925
+2019,Wayanad,Cruelty by Husband/Relatives,64,Crimes Against Women,False,North,817420,7.829512368182819
+2020,Wayanad,Cruelty by Husband/Relatives,65,Crimes Against Women,False,North,817420,7.951848498935676
+2021,Wayanad,Cruelty by Husband/Relatives,55,Crimes Against Women,False,North,817420,6.72848719140711
+2022,Wayanad,Cruelty by Husband/Relatives,66,Crimes Against Women,False,North,817420,8.074184629688531
+2023,Wayanad,Cruelty by Husband/Relatives,52,Crimes Against Women,False,North,817420,6.361478799148541
+2016,Wayanad,Cyber Crime,7,Economic & Cyber Crime,False,North,817420,0.8563529152699958
+2017,Wayanad,Cyber Crime,8,Economic & Cyber Crime,False,North,817420,0.9786890460228523
+2018,Wayanad,Cyber Crime,11,Economic & Cyber Crime,False,North,817420,1.345697438281422
+2019,Wayanad,Cyber Crime,11,Economic & Cyber Crime,False,North,817420,1.345697438281422
+2020,Wayanad,Cyber Crime,20,Economic & Cyber Crime,False,North,817420,2.446722615057131
+2021,Wayanad,Cyber Crime,23,Economic & Cyber Crime,False,North,817420,2.8137310073157007
+2022,Wayanad,Cyber Crime,26,Economic & Cyber Crime,False,North,817420,3.1807393995742705
+2023,Wayanad,Cyber Crime,38,Economic & Cyber Crime,False,North,817420,4.648772968608549
+2016,Wayanad,Hurt,494,Violent Crime,False,North,817420,60.434048591911136
+2017,Wayanad,Hurt,572,Violent Crime,False,North,817420,69.97626679063394
+2018,Wayanad,Hurt,540,Violent Crime,False,North,817420,66.06151060654254
+2019,Wayanad,Hurt,502,Violent Crime,False,North,817420,61.41273763793399
+2020,Wayanad,Hurt,425,Violent Crime,False,North,817420,51.99285556996403
+2021,Wayanad,Hurt,575,Violent Crime,False,North,817420,70.34327518289251
+2022,Wayanad,Hurt,400,Violent Crime,False,North,817420,48.93445230114262
+2023,Wayanad,Hurt,481,Violent Crime,False,North,817420,58.843678892124
+2016,Wayanad,Kidnapping & Abduction,14,Violent Crime,False,North,817420,1.7127058305399916
+2017,Wayanad,Kidnapping & Abduction,16,Violent Crime,False,North,817420,1.9573780920457047
+2018,Wayanad,Kidnapping & Abduction,15,Violent Crime,False,North,817420,1.8350419612928481
+2019,Wayanad,Kidnapping & Abduction,16,Violent Crime,False,North,817420,1.9573780920457047
+2020,Wayanad,Kidnapping & Abduction,13,Violent Crime,False,North,817420,1.5903696997871353
+2021,Wayanad,Kidnapping & Abduction,18,Violent Crime,False,North,817420,2.2020503535514178
+2022,Wayanad,Kidnapping & Abduction,16,Violent Crime,False,North,817420,1.9573780920457047
+2023,Wayanad,Kidnapping & Abduction,20,Violent Crime,False,North,817420,2.446722615057131
+2016,Wayanad,Molestation,47,Crimes Against Women,False,North,817420,5.749798145384258
+2017,Wayanad,Molestation,56,Crimes Against Women,False,North,817420,6.850823322159966
+2018,Wayanad,Molestation,52,Crimes Against Women,False,North,817420,6.361478799148541
+2019,Wayanad,Molestation,52,Crimes Against Women,False,North,817420,6.361478799148541
+2020,Wayanad,Molestation,44,Crimes Against Women,False,North,817420,5.382789753125688
+2021,Wayanad,Molestation,48,Crimes Against Women,False,North,817420,5.872134276137114
+2022,Wayanad,Molestation,59,Crimes Against Women,False,North,817420,7.217831714418537
+2023,Wayanad,Molestation,56,Crimes Against Women,False,North,817420,6.850823322159966
+2016,Wayanad,Murder,8,Violent Crime,False,North,817420,0.9786890460228523
+2017,Wayanad,Murder,6,Violent Crime,False,North,817420,0.7340167845171393
+2018,Wayanad,Murder,8,Violent Crime,False,North,817420,0.9786890460228523
+2019,Wayanad,Murder,8,Violent Crime,False,North,817420,0.9786890460228523
+2020,Wayanad,Murder,8,Violent Crime,False,North,817420,0.9786890460228523
+2021,Wayanad,Murder,8,Violent Crime,False,North,817420,0.9786890460228523
+2022,Wayanad,Murder,6,Violent Crime,False,North,817420,0.7340167845171393
+2023,Wayanad,Murder,7,Violent Crime,False,North,817420,0.8563529152699958
+2016,Wayanad,NDPS Act,124,Special & Local Laws,False,North,817420,15.169680213354212
+2017,Wayanad,NDPS Act,169,Special & Local Laws,False,North,817420,20.674806097232757
+2018,Wayanad,NDPS Act,206,Special & Local Laws,False,North,817420,25.20124293508845
+2019,Wayanad,NDPS Act,232,Special & Local Laws,False,North,817420,28.38198233466272
+2020,Wayanad,NDPS Act,220,Special & Local Laws,False,North,817420,26.91394876562844
+2021,Wayanad,NDPS Act,318,Special & Local Laws,False,North,817420,38.90288957940839
+2022,Wayanad,NDPS Act,376,Special & Local Laws,False,North,817420,45.99838516307406
+2023,Wayanad,NDPS Act,465,Special & Local Laws,False,North,817420,56.886300800078295
+2016,Wayanad,Rape,25,Crimes Against Women,False,North,817420,3.058403268821414
+2017,Wayanad,Rape,31,Crimes Against Women,False,North,817420,3.792420053338553
+2018,Wayanad,Rape,34,Crimes Against Women,False,North,817420,4.159428445597122
+2019,Wayanad,Rape,32,Crimes Against Women,False,North,817420,3.9147561840914094
+2020,Wayanad,Rape,27,Crimes Against Women,False,North,817420,3.303075530327127
+2021,Wayanad,Rape,26,Crimes Against Women,False,North,817420,3.1807393995742705
+2022,Wayanad,Rape,34,Crimes Against Women,False,North,817420,4.159428445597122
+2023,Wayanad,Rape,38,Crimes Against Women,False,North,817420,4.648772968608549
+2016,Wayanad,Riots,34,Violent Crime,False,North,817420,4.159428445597122
+2017,Wayanad,Riots,30,Violent Crime,False,North,817420,3.6700839225856963
+2018,Wayanad,Riots,33,Violent Crime,False,North,817420,4.037092314844266
+2019,Wayanad,Riots,35,Violent Crime,False,North,817420,4.281764576349979
+2020,Wayanad,Riots,16,Violent Crime,False,North,817420,1.9573780920457047
+2021,Wayanad,Riots,31,Violent Crime,False,North,817420,3.792420053338553
+2022,Wayanad,Riots,27,Violent Crime,False,North,817420,3.303075530327127
+2023,Wayanad,Riots,29,Violent Crime,False,North,817420,3.54774779183284
+2016,Wayanad,Robbery,19,Property Crime,False,North,817420,2.3243864843042745
+2017,Wayanad,Robbery,18,Property Crime,False,North,817420,2.2020503535514178
+2018,Wayanad,Robbery,19,Property Crime,False,North,817420,2.3243864843042745
+2019,Wayanad,Robbery,17,Property Crime,False,North,817420,2.079714222798561
+2020,Wayanad,Robbery,11,Property Crime,False,North,817420,1.345697438281422
+2021,Wayanad,Robbery,15,Property Crime,False,North,817420,1.8350419612928481
+2022,Wayanad,Robbery,16,Property Crime,False,North,817420,1.9573780920457047
+2023,Wayanad,Robbery,14,Property Crime,False,North,817420,1.7127058305399916
+2016,Wayanad,Theft,176,Property Crime,False,North,817420,21.53115901250275
+2017,Wayanad,Theft,190,Property Crime,False,North,817420,23.243864843042743
+2018,Wayanad,Theft,199,Property Crime,False,North,817420,24.344890019818454
+2019,Wayanad,Theft,171,Property Crime,False,North,817420,20.91947835873847
+2020,Wayanad,Theft,121,Property Crime,False,North,817420,14.802671821095641
+2021,Wayanad,Theft,155,Property Crime,False,North,817420,18.962100266692765
+2022,Wayanad,Theft,176,Property Crime,False,North,817420,21.53115901250275
+2023,Wayanad,Theft,183,Property Crime,False,North,817420,22.38751192777275

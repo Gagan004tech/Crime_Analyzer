@@ -1,0 +1,16 @@
+crime_head_id,crime_head,category
+1,Cruelty by Husband/Relatives,Crimes Against Women
+2,Molestation,Crimes Against Women
+3,Rape,Crimes Against Women
+4,Cheating,Economic & Cyber Crime
+5,Cyber Crime,Economic & Cyber Crime
+6,Burglary,Property Crime
+7,Robbery,Property Crime
+8,Theft,Property Crime
+9,Abkari Act,Special & Local Laws
+10,NDPS Act,Special & Local Laws
+11,Attempt to Murder,Violent Crime
+12,Hurt,Violent Crime
+13,Kidnapping & Abduction,Violent Crime
+14,Murder,Violent Crime
+15,Riots,Violent Crime

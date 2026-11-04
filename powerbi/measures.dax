@@ -1,0 +1,79 @@
+// DAX measures for the Kerala Crime Analysis dashboard.
+// Create a blank table called _Measures and add each measure to it.
+// Tables: fact_crime, dim_district, dim_crime_head, dim_year (see powerbi/README.md)
+
+Total Cases =
+SUM ( fact_crime[cases] )
+
+Population =
+SUM ( dim_district[population_2011] )
+
+// Works at any level: state, region or district, because both sides follow the slicers
+Crime Rate per Lakh =
+DIVIDE ( [Total Cases], [Population] ) * 100000
+
+Selected Year =
+MAX ( dim_year[year] )
+
+Cases Previous Year =
+VAR y = [Selected Year]
+RETURN
+    CALCULATE ( [Total Cases], dim_year[year] = y - 1 )
+
+YoY Change % =
+DIVIDE ( [Total Cases] - [Cases Previous Year], [Cases Previous Year] )
+
+First Year Cases =
+VAR y0 = CALCULATE ( MIN ( dim_year[year] ), ALLSELECTED ( dim_year ) )
+RETURN
+    CALCULATE ( [Total Cases], dim_year[year] = y0 )
+
+Last Year Cases =
+VAR y1 = CALCULATE ( MAX ( dim_year[year] ), ALLSELECTED ( dim_year ) )
+RETURN
+    CALCULATE ( [Total Cases], dim_year[year] = y1 )
+
+// Compound annual growth over the selected year range
+CAGR % =
+VAR y0 = CALCULATE ( MIN ( dim_year[year] ), ALLSELECTED ( dim_year ) )
+VAR y1 = CALCULATE ( MAX ( dim_year[year] ), ALLSELECTED ( dim_year ) )
+VAR n = y1 - y0
+RETURN
+    IF ( n > 0 && [First Year Cases] > 0,
+        POWER ( DIVIDE ( [Last Year Cases], [First Year Cases] ), 1 / n ) - 1 )
+
+Share of State % =
+DIVIDE ( [Total Cases], CALCULATE ( [Total Cases], ALL ( dim_district ) ) )
+
+Share of Category % =
+DIVIDE ( [Total Cases], CALCULATE ( [Total Cases], ALL ( dim_crime_head ) ) )
+
+District Rank (Rate) =
+IF ( HASONEVALUE ( dim_district[district] ),
+    RANKX ( ALL ( dim_district[district] ), [Crime Rate per Lakh], , DESC ) )
+
+// State average of district rates, used for the reference line and hotspot flag
+State Avg Rate per Lakh =
+AVERAGEX ( ALL ( dim_district[district] ), [Crime Rate per Lakh] )
+
+Rate vs State Avg % =
+DIVIDE ( [Crime Rate per Lakh] - [State Avg Rate per Lakh], [State Avg Rate per Lakh] )
+
+// 1 when the district's rate is 1.5 standard deviations above the district average
+Hotspot Flag =
+VAR rates = ADDCOLUMNS ( ALL ( dim_district[district] ), "@r", [Crime Rate per Lakh] )
+VAR mu = AVERAGEX ( rates, [@r] )
+VAR sd = STDEVX.P ( rates, [@r] )
+RETURN
+    IF ( HASONEVALUE ( dim_district[district] ) && sd > 0,
+        IF ( DIVIDE ( [Crime Rate per Lakh] - mu, sd ) >= 1.5, 1, 0 ) )
+
+Imputed Cells =
+CALCULATE ( COUNTROWS ( fact_crime ), fact_crime[imputed] = TRUE () )
+
+// Conditional-format helper: red for rising, blue for falling
+YoY Colour =
+SWITCH ( TRUE (),
+    ISBLANK ( [YoY Change %] ), "#9e9e9e",
+    [YoY Change %] > 0, "#c0392b",
+    "#2a6f97" )
